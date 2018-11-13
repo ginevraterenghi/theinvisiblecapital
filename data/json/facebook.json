@@ -1,0 +1,373 @@
+{
+	"name": "facebook",
+	"children": [{
+		"name": "Friends",
+		"children": [{
+			"platform_name": "facebook",
+			"subcategory1_name": "friends",
+			"name": "Friends",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "facebook",
+			"subcategory1_name": "friends",
+			"name": "Received Friends Requests",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "facebook",
+			"subcategory1_name": "friends",
+			"name": "Rejected Friends Request",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "facebook",
+			"subcategory1_name": "friends",
+			"name": "Removed Friends",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "facebook",
+			"subcategory1_name": "friends",
+			"name": "Sent Friends Requests",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}, {
+		"name": "Security/Login Infos",
+		"children": [{
+			"platform_name": "facebook",
+			"subcategory1_name": "security_and_login_information",
+			"name": "Account Activities",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "facebook",
+			"subcategory1_name": "security_and_login_information",
+			"name": "Administrative Records",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "facebook",
+			"subcategory1_name": "security_and_login_information",
+			"name": "Authorized Logins",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "facebook",
+			"subcategory1_name": "security_and_login_information",
+			"name": "Login Protection Data",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "facebook",
+			"subcategory1_name": "security_and_login_information",
+			"name": "Logins and Logouts",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "facebook",
+			"subcategory1_name": "security_and_login_information",
+			"name": "Used IP Addresses",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "facebook",
+			"subcategory1_name": "security_and_login_information",
+			"name": "Where you were logged in",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}, {
+		"name": "Profile Informations",
+		"children": [{
+			"platform_name": "facebook",
+			"subcategory1_name": "profile_information",
+			"name": "Profile Informations",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "facebook",
+			"subcategory1_name": "profile_information",
+			"name": "Profile Updates History",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}, {
+		"name": "About You",
+		"children": [{
+			"platform_name": "facebook",
+			"subcategory1_name": "about you",
+			"name": "Friends and Peers group",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "facebook",
+			"subcategory1_name": "about you",
+			"name": "Your address book",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}, {
+		"name": "Groups",
+		"children": [{
+			"platform_name": "facebook",
+			"subcategory1_name": "groups",
+			"name": "Your Group activities",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "facebook",
+			"subcategory1_name": "groups",
+			"name": "Your Groups",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "facebook",
+			"subcategory1_name": "groups",
+			"name": "Posts and Comments in groups",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}, {
+		"name": "Following and Followers",
+		"children": [{
+			"platform_name": "facebook",
+			"subcategory1_name": "following_and_followers",
+			"name": "Following",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "facebook",
+			"subcategory1_name": "following_and_followers",
+			"name": "Unfollowed Pages",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}, {
+		"name": "Events",
+		"children": [{
+			"platform_name": "facebook",
+			"subcategory1_name": "events",
+			"name": "Events Invitation",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "facebook",
+			"subcategory1_name": "events",
+			"name": "Your responses on events",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "facebook",
+			"subcategory1_name": "events",
+			"name": "Your events",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}, {
+		"name": "Likes and Reactions",
+		"children": [{
+			"platform_name": "facebook",
+			"subcategory1_name": "likes_and_reactions",
+			"name": "Reactions in pages posts",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "facebook",
+			"subcategory1_name": "likes_and_reactions",
+			"name": "Posts and Comments",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}, {
+		"name": "Location History",
+		"children": [{
+			"platform_name": "facebook",
+			"subcategory1_name": "location_history",
+			"name": "Your Location History",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}, {
+		"name": "Your Places",
+		"children": [{
+			"platform_name": "facebook",
+			"subcategory1_name": "your_places",
+			"name": "Places you've created",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}, {
+		"name": "Payment History",
+		"children": [{
+			"platform_name": "facebook",
+			"subcategory1_name": "payment_history",
+			"name": "Payment History",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}, {
+		"name": "Posts",
+		"children": [{
+			"platform_name": "facebook",
+			"subcategory1_name": "posts",
+			"name": "Friends Posts on your timeline",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "facebook",
+			"subcategory1_name": "posts",
+			"name": "your_posts",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}, {
+		"name": "Search History",
+		"children": [{
+			"platform_name": "facebook",
+			"subcategory1_name": "search_history",
+			"name": "Your Search History",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}, {
+		"name": "Photos",
+		"children": [{
+			"platform_name": "facebook",
+			"subcategory1_name": "photos",
+			"name": "Used Stickers",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "facebook",
+			"subcategory1_name": "photos",
+			"name": "Your Posts",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}, {
+		"name": "Calls and Messages",
+		"children": [{
+			"platform_name": "facebook",
+			"subcategory1_name": "calls_and_messages",
+			"name": "Calls and Messages",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}, {
+		"name": "Marketplace",
+		"children": [{
+			"platform_name": "facebook",
+			"subcategory1_name": "marketplace",
+			"name": "Marketplace Datas",
+			"format_file": "txt",
+			"size": "10"
+		}]
+	}, {
+		"name": "Pages",
+		"children": [{
+			"platform_name": "facebook",
+			"subcategory1_name": "pages",
+			"name": "Your Pages",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}, {
+		"name": "Other Activities",
+		"children": [{
+			"platform_name": "facebook",
+			"subcategory1_name": "other_activity",
+			"name": "Other Activities and Transactions",
+			"format_file": "txt",
+			"size": "10"
+		}]
+	}, {
+		"name": "Apps",
+		"children": [{
+			"platform_name": "facebook",
+			"subcategory1_name": "apps",
+			"name": "Installed Apps",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "facebook",
+			"subcategory1_name": "apps",
+			"name": "Posts from Apps",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "facebook",
+			"subcategory1_name": "apps",
+			"name": "Your Apps",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}, {
+		"name": "Comments",
+		"children": [{
+			"platform_name": "facebook",
+			"subcategory1_name": "comments",
+			"name": "Comments",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}, {
+		"name": "Videos",
+		"children": [{
+			"platform_name": "facebook",
+			"subcategory1_name": "videos",
+			"name": "Videos",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}, {
+		"name": "Messages",
+		"children": [{
+			"platform_name": "facebook",
+			"subcategory1_name": "messages",
+			"name": "Private Conversations",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}, {
+		"name": "Network Informations",
+		"children": [{
+			"platform_name": "facebook",
+			"subcategory1_name": "network_information",
+			"name": "Network Datas",
+			"format_file": "txt",
+			"size": "10"
+		}]
+	}, {
+		"name": "Saved Items",
+		"children": [{
+			"platform_name": "facebook",
+			"subcategory1_name": "saved_items",
+			"name": "Your saved items",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}, {
+		"name": "Ads",
+		"children": [{
+			"platform_name": "facebook",
+			"subcategory1_name": "ads",
+			"name": "Interests",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "facebook",
+			"subcategory1_name": "ads",
+			"name": "Advertisers who uploaded a contact list with your informations",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "facebook",
+			"subcategory1_name": "ads",
+			"name": "Advertisers you interacted with",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+<svg width="1220px" height="800px">
+    <style type="text/css">
+    circle, rect {
+        fill: url(#gradient-horizontal);
+    }
+    </style>
+    <defs>
+        <linearGradient id="gradient-horizontal">
+            <stop offset="0%" stop-color="#a770ef" />
+            <stop offset="30%" stop-color="#cf8bf3" />
+            <stop offset="100%" stop-color="#fdb99b" />
+        </linearGradient>
+    </defs>
+    <rect width="1220px" height="800px" fill="url(#gradiend-horizontal)">  </rect>
+    <circle r="240px" cx="732px" cy="400px"></circle>
+</svg>

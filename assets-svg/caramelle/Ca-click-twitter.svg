@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 181.88 338.68">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a770ef;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: none;
+        stroke: #351b52;
+        stroke-miterlimit: 10;
+        stroke-width: 0.17px;
+      }
+
+      .cls-3 {
+        stroke-dasharray: 1.41 1.41;
+      }
+
+      .cls-4 {
+        stroke-dasharray: 1.35 1.35;
+      }
+
+      .cls-5 {
+        fill: #62398f;
+      }
+
+      .cls-6 {
+        fill: #8cff80;
+      }
+
+      .cls-7 {
+        fill: #fdb99b;
+      }
+    </style>
+  </defs>
+  <title>data</title>
+  <g id="sfondi-col">
+    <rect class="cls-1" x="-4.53" y="-13.47" width="192.5" height="364.16"/>
+  </g>
+  <g id="_Layer_" data-name="&lt;Layer&gt;">
+    <g>
+      <g>
+        <line class="cls-2" x1="122.13" y1="109.81" x2="121.45" y2="109.81"/>
+        <line class="cls-3" x1="120.04" y1="109.81" x2="92.58" y2="109.81"/>
+        <line class="cls-2" x1="91.87" y1="109.81" x2="91.19" y2="109.81"/>
+      </g>
+      <g>
+        <line class="cls-2" x1="91.07" y1="13.88" x2="91.07" y2="14.56"/>
+        <line class="cls-4" x1="91.07" y1="15.91" x2="91.07" y2="125.89"/>
+        <line class="cls-2" x1="91.07" y1="126.56" x2="91.07" y2="127.24"/>
+      </g>
+      <rect class="cls-5" x="87.82" y="5.98" width="6.51" height="6.51" transform="translate(19.66 66.51) rotate(-44.51)"/>
+      <rect class="cls-6" x="87.82" y="46.24" width="6.51" height="6.51" transform="translate(-8.57 78.06) rotate(-44.51)"/>
+      <rect class="cls-6" x="87.82" y="86.49" width="6.51" height="6.51" transform="translate(-36.79 89.61) rotate(-44.51)"/>
+      <rect class="cls-6" x="87.82" y="66.36" width="6.51" height="6.51" transform="translate(-22.68 83.83) rotate(-44.51)"/>
+      <path class="cls-6" d="M127,106.23l3.61,3.67-3.67,3.61-3.61-3.67,3.67-3.61m0-1-4.64,4.57,4.57,4.64,4.64-4.57L127,105.27Z"/>
+      <rect class="cls-6" x="87.82" y="126.86" width="6.51" height="6.51" transform="translate(-65.09 101.19) rotate(-44.51)"/>
+      <rect class="cls-7" x="87.82" y="26.11" width="6.51" height="6.51" transform="translate(5.54 72.28) rotate(-44.51)"/>
+    </g>
+  </g>
+</svg>

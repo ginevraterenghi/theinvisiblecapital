@@ -1,0 +1,119 @@
+{
+	"name": "instagram",
+	"children": [{
+		"name": "Videos",
+		"children": [{
+			"name": "folder",
+			"children": [{
+				"platform_name": "instagram",
+				"subcategory1_name": "videos",
+				"subcategory2_name": "folder",
+				"name": "mp4 files",
+				"format_file": "mp4",
+				"size": "10"
+			}]
+		}]
+	}, {
+		"name": "Photos",
+		"children": [{
+			"name": "folder",
+			"children": [{
+				"platform_name": "instagram",
+				"subcategory1_name": "photos",
+				"subcategory2_name": "folder",
+				"name": "image",
+				"format_file": "jpg files",
+				"size": "10"
+			}]
+		}]
+	}, {
+		"name": "Stories",
+		"children": [{
+			"name": "folder",
+			"children": [{
+				"platform_name": "instagram",
+				"subcategory1_name": "stories",
+				"subcategory2_name": "folder",
+				"name": "mp4/jpg files",
+				"format_file": "jpg/mp4",
+				"size": "10"
+			}]
+		}]
+	}, {
+		"name": "Direct Messages",
+		"children": [{
+			"name": "folder",
+			"children": [{
+				"platform_name": "instagram",
+				"subcategory1_name": "direct",
+				"subcategory2_name": "folder",
+				"name": "jpg files",
+				"format_file": "jpg",
+				"size": "10"
+			}]
+		}]
+	}, {
+		"name": "Root - Interactions",
+		"children": [{
+			"platform_name": "instagram",
+			"subcategory1_name": "root",
+			"name": "Comments",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "instagram",
+			"subcategory1_name": "root",
+			"name": "Connections",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "instagram",
+			"subcategory1_name": "root",
+			"name": "Contacts",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "instagram",
+			"subcategory1_name": "root",
+			"name": "Likes",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "instagram",
+			"subcategory1_name": "root",
+			"name": "Media",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "instagram",
+			"subcategory1_name": "root",
+			"name": "Messages",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "instagram",
+			"subcategory1_name": "root",
+			"name": "Profile Informations",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "instagram",
+			"subcategory1_name": "root",
+			"name": "Saved Contents",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "instagram",
+			"subcategory1_name": "root",
+			"name": "Searches",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "instagram",
+			"subcategory1_name": "root",
+			"name": "Settings",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}]
+}

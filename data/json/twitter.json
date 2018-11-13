@@ -1,0 +1,262 @@
+{
+	"name": "twitter",
+	"children": [{
+		"name": "Root - Personal Informations",
+		"children": [{
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "Likes",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "Profile Media",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "Followers",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "Direct Messages",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "AD Conversions",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "Screen Name Change",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "History",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "Account",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "Age",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "connected-application.js",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "AD Mobile Conversions",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "AD Mobile Conversions (attributed)",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "Contacts",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "Following",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "Media",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "Verified",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "Subscribed Lists",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "Member Lists",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "Account Suspension",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "Devices",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "Moments",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "Ad Engagements",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "AD impressions",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "Personalization",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "DM Media",
+			"format_file": "json",
+			"size": "10",
+			"null": [" "]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "Tweets",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "Email Changes",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "IP Audit",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "Muted Accounts",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "Account Creation IP",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "Profile",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "Blocked Accounts",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "Saved Searches",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "Created Lists",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}, {
+			"platform_name": "twitter",
+			"subcategory1_name": "root",
+			"name": "AD Conversions (no-attribution)",
+			"format_file": "json",
+			"size": "10",
+			"null": [""]
+		}]
+	}, {
+		"name": "profile media",
+		"children": [{
+			"platform_name": "twitter",
+			"subcategory1_name": "profile_media",
+			"name": "photo",
+			"format_file": "jpg",
+			"size": "10",
+			"null": [""]
+		}]
+	}]
+}

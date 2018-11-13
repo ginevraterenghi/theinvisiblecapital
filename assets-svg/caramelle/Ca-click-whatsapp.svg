@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 181.88 338.68">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a770ef;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke: #351b52;
+        stroke-miterlimit: 10;
+        stroke-width: 0.17px;
+      }
+
+      .cls-3 {
+        stroke-dasharray: 1.35 1.35;
+      }
+
+      .cls-4 {
+        fill: #62398f;
+      }
+
+      .cls-5 {
+        fill: #8cff80;
+      }
+
+      .cls-6 {
+        fill: #fdb99b;
+      }
+    </style>
+  </defs>
+  <title>data</title>
+  <g id="sfondi-col">
+    <rect class="cls-1" x="-6.09" y="-13.47" width="192.5" height="364.16"/>
+  </g>
+  <g id="_Layer_" data-name="&lt;Layer&gt;">
+    <g>
+      <g>
+        <line class="cls-2" x1="91.05" y1="14" x2="91.05" y2="14.68"/>
+        <line class="cls-3" x1="91.05" y1="16.03" x2="91.05" y2="112.36"/>
+        <line class="cls-2" x1="91.05" y1="113.03" x2="91.05" y2="113.71"/>
+      </g>
+      <path class="cls-4" d="M91.09,5.72,94.7,9.4,91,13,87.42,9.33l3.67-3.61m0-1L86.46,9.33,91,14,95.67,9.4,91.1,4.76Z"/>
+      <rect class="cls-5" x="87.81" y="46.36" width="6.51" height="6.51" transform="translate(-8.66 78.08) rotate(-44.51)"/>
+      <rect class="cls-6" x="87.81" y="86.62" width="6.51" height="6.51" transform="translate(-36.88 89.63) rotate(-44.51)"/>
+      <rect class="cls-5" x="87.81" y="66.49" width="6.51" height="6.51" transform="translate(-22.77 83.85) rotate(-44.51)"/>
+      <rect class="cls-5" x="87.81" y="106.74" width="6.51" height="6.51" transform="translate(-50.99 95.41) rotate(-44.51)"/>
+      <rect class="cls-5" x="87.81" y="26.24" width="6.51" height="6.51" transform="translate(5.45 72.3) rotate(-44.51)"/>
+    </g>
+  </g>
+</svg>

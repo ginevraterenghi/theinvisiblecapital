@@ -1,0 +1,19 @@
+{
+	"name": "whatsapp",
+	"children": [{
+		"name": "Root",
+		"children": [{
+			"platform_name": "whatsapp",
+			"subcategory1_name": "root",
+			"name": "Access",
+			"format_file": "html",
+			"size": "10"
+		}, {
+			"platform_name": "whatsapp",
+			"subcategory1_name": "root",
+			"name": "Portability",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}]
+}

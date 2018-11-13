@@ -1,0 +1,15 @@
+platform_name,subcategory1_name,subcategory2_name,subcategory3_name,subcategory4_name,subcategory5_name,file_name,format_file,size
+instagram,root,,,,,comments,json,10
+instagram,root,,,,,connections,json,10
+instagram,root,,,,,contacts,json,10
+instagram,direct,folder,,,,image,jpg,10
+instagram,root,,,,,likes,json,10
+instagram,root,,,,,media,json,10
+instagram,root,,,,,messages,json,10
+instagram,photos,folder,,,,image,jpg,10
+instagram,root,,,,,profile,json,10
+instagram,root,,,,,saved,json,10
+instagram,root,,,,,searches,json,10
+instagram,root,,,,,settings,json,10
+instagram,videos,folder,,,,video,mp4,10
+instagram,stories,folder,,,,video/image,jpg/mp4,10

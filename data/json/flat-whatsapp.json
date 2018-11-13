@@ -1,0 +1,1 @@
+{ "name": "whatsapp", "children": [{"platform_name": "whatsapp", "subcategory1_name": "root", "name": "access", "format_file": "html", "size": "10"}, {"platform_name": "whatsapp", "subcategory1_name": "root", "name": "portability", "format_file": "json", "size": "10"}]}

@@ -1,0 +1,864 @@
+<svg version="1.1" id="fiocchi-dati" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                  	 viewBox="0 0 1308.1 1589.8" style="enable-background:new 0 0 1308.1 1589.8;" xml:space="preserve">
+<style type="text/css">
+.st0{display:none;}
+.main-line{fill:none;stroke:#BABDDF;stroke-width:2;}
+.font-grande-colore{fill:#CDCCFE;}
+.font-tradegot{font-family:'TradeGothicLH-Extended';}
+.font-grande-assi{font-size:16.292px;}
+.etichette-arancioscuro{fill:#FF754A;}
+.etichette-fontsize{font-size:10px;}
+.fill-aranciochiaro{fill:#FFD0BD;}
+.line-aranciochiaro{fill:none;stroke:#FFD0BD;stroke-width:0.5;stroke-miterlimit:10;}
+.fill-violino{fill:#BABDDF;font-family:'Monda-Regular';}
+.font-descrizioni{font-size:14.5847px;}
+.linea-tratteggiata1{fill:none;stroke:#BABDDF;stroke-width:0.75;}
+.linea-tratteggiata2{fill:none;stroke:#BABDDF;stroke-width:0.75;stroke-dasharray:1.0017,1.0017,1.0017,1.0017;}
+.linea-tratteggiata3{fill:none;stroke:#BABDDF;stroke-width:0.75;stroke-dasharray:1.0017,1.0017,1.0017,1.0017,1.0017,1.0017;}
+.fill-aranciomedio{fill:#FF906E;}
+.fill-arancioscuro{fill:#FF5F27;}
+.sfondo-platform {fill:#BABDDF; opacity: 0.2; z-index: -1; }
+</style>
+                  <g id="background">
+                  </g>
+                  <g id="raggi_nomi" class="st0">
+                  </g>
+                  <g id="Layer_1">
+                  </g>
+                  <g id="PLAT">
+                  </g>
+                  <g id="griglia" class="st0">
+                  </g>
+                  <g id="Isolation_Mode">
+                  </g>
+                  <g id="Layer_7">
+                  	<g id="assex">
+                  		<g>
+                  			<line id="asse-x" class="main-line" x1="61.1" y1="1510.4" x2="1265.5" y2="1510.4"/>
+                  		</g>
+                  		<g>
+                  			<text transform="matrix(1 0 0 1 1039.6998 1546.3616)" class="font-grande-colore font-tradegot font-grande-assi">platform foundation year</text>
+                  		</g>
+                  	</g>
+                  	<g id="assey">
+                  		<g>
+                  			<text transform="matrix(0 -1 1 0 41.0018 347.6777)" class="font-grande-colore font-tradegot font-grande-assi">subscripted users in 2018</text>
+                  		</g>
+                  		<line id="asse-y" class="main-line" x1="62.7" y1="115" x2="62.7" y2="1511.8"/>
+                  	</g>
+                  	<g id="whatsapp">
+                  		<g id="etichette-whatsapp">
+                  			<text transform="matrix(0.9331 0.3597 -0.3597 0.9331 779.1281 370.4492)" class="etichette-arancioscuro font-tradegot etichette-fontsize">user profile</text>
+                  			<text transform="matrix(0.9761 0.2173 -0.2173 0.9761 789.7892 410.2421)" class="etichette-arancioscuro font-tradegot etichette-fontsize">activity</text>
+                  			<text transform="matrix(0.7966 0.6045 -0.6045 0.7966 795.5408 327.478)" class="etichette-arancioscuro font-tradegot etichette-fontsize">device infos</text>
+                  			<text transform="matrix(0.6311 0.7757 -0.7757 0.6311 840.1865 305.2955)" class="etichette-arancioscuro font-tradegot etichette-fontsize">contacts</text>
+                  			<g>
+                  				<text transform="matrix(0.9749 -0.2227 0.2227 0.9749 1054.7097 381.0626)" class="fill-aranciochiaro font-tradegot etichette-fontsize">apps</text>
+                  			</g>
+                  			<g>
+                  				<text transform="matrix(0.5826 0.8127 -0.8127 0.5826 1014.3779 532.382)" class="fill-aranciochiaro font-tradegot etichette-fontsize">network</text>
+                  			</g>
+                  		</g>
+                  		<g id="fiocco-whatsapp">
+                  			<line class="main-line" x1="943.8" y1="437.8" x2="979.5" y2="402"/>
+                  			<line class="line-aranciochiaro" x1="904.4" y1="398.6" x2="860.1" y2="371.1"/>
+                  			<line class="main-line" x1="979.9" y1="474.1" x2="906" y2="399.6"/>
+                  			<line class="line-aranciochiaro" x1="905.4" y1="399.5" x2="878.1" y2="352.8"/>
+                  			<line class="line-aranciochiaro" x1="906.2" y1="400.4" x2="846.7" y2="393.4"/>
+                  			<line class="line-aranciochiaro" x1="906.1" y1="400.2" x2="839" y2="418.2"/>
+                  			<line class="line-aranciochiaro" x1="981" y1="400.3" x2="1036.4" y2="381.8"/>
+                  			<line class="line-aranciochiaro" x1="1010.8" y1="521.4" x2="980.9" y2="475.1"/>
+                  			<g>
+                  				<polygon class="fill-aranciochiaro" points="989.3,474.3 976.5,470.6 979.6,483.6 				"/>
+                  			</g>
+                  			<g>
+                  				<path class="etichette-arancioscuro" d="M910.6,404.4c-0.8,1-2,1.8-3.4,2.1H907c-3.1,0.5-6-1.5-6.5-4.5c-0.5-3.1,1.5-6,4.5-6.5l1,5.5l-1-5.5
+                  					c3-0.6,6,1.4,6.6,4.5C912,401.6,911.6,403.2,910.6,404.4z"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciochiaro" points="987.3,402.7 986.5,395.2 979.2,393.6 975.4,400.1 980.4,405.7 				"/>
+                  			</g>
+                  			<g>
+                  				<path class="etichette-arancioscuro" d="M841.2,419.7c-0.6,0.8-1.7,1.3-2.7,1.1c-1.5-0.3-2.5-1.7-2.3-3.3l2.8,0.5l-2.8-0.5c0.3-1.5,1.7-2.5,3.3-2.3
+                  					c1.5,0.3,2.5,1.7,2.3,3.3v0.1C841.7,419,841.5,419.4,841.2,419.7z"/>
+                  			</g>
+                  			<g>
+                  				<path class="etichette-arancioscuro" d="M880.5,354.5c-0.1,0.2-0.3,0.4-0.5,0.5c-1.2,1-3,0.8-4-0.4c-1-1.2-0.8-3,0.4-3.9l0,0c1.2-1,3-0.8,3.9,0.5
+                  					C881.3,352.1,881.2,353.5,880.5,354.5z"/>
+                  			</g>
+                  			<g>
+                  				<path class="etichette-arancioscuro" d="M848.9,395c-0.8,1-2.2,1.4-3.4,0.9c-1.4-0.6-2.1-2.3-1.4-3.7v-0.1c0.6-1.4,2.3-2,3.7-1.4s2,2.3,1.4,3.7
+                  					C849.1,394.7,849,394.8,848.9,395z"/>
+                  			</g>
+                  			<g>
+                  				<path class="etichette-arancioscuro" d="M862.2,372.8C862.2,372.9,862.2,372.9,862.2,372.8c-1,1.3-2.8,1.5-4,0.5c-1.2-0.9-1.4-2.7-0.5-3.9l0,0l0,0
+                  					c1-1.2,2.7-1.4,3.9-0.5C862.9,369.9,863.2,371.6,862.2,372.8z"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciochiaro" points="1015.2,521.9 1009.3,518.8 1009.6,525.5 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciochiaro" points="1036.8,384.9 1039.8,382.7 1038.7,379.1 1034.9,379.1 1033.7,382.7 				"/>
+                  			</g>
+
+                  		</g>
+                  		<g id="descri-whatsapp">
+                  			<text transform="matrix(1 0 0 1 678.6326 492.4428)" class="fill-violino  font-descrizioni">launched in: </text>
+                  			<text transform="matrix(1 0 0 1 768.5327 492.4428)" class="fill-aranciochiaro  font-descrizioni">2009</text>
+                  			<text transform="matrix(1 0 0 1 678.6326 519.8745)" class="fill-violino  font-descrizioni">users: </text>
+                  			<text transform="matrix(1 0 0 1 724.5327 519.8745)" class="fill-aranciochiaro  font-descrizioni">1.200.000.000 </text>
+                  			<text transform="matrix(1 0 0 1 678.6326 537.3745)" class="fill-aranciochiaro  font-descrizioni">monthly users</text>
+                  			<g>
+                  				<text transform="matrix(1 0 0 1 678.6326 468.7395)" class="fill-violino  font-descrizioni">WHATSAPP</text>
+                  			</g>
+                  			<g>
+                  				<g>
+                  					<line class="linea-tratteggiata1" x1="943.9" y1="437" x2="943.4" y2="437"/>
+                  					<line class="linea-tratteggiata2" x1="942.4" y1="437" x2="938.9" y2="437"/>
+                  					<line class="linea-tratteggiata3" x1="938.4" y1="437" x2="716.5" y2="437"/>
+                  					<line class="linea-tratteggiata1" x1="716" y1="437" x2="715.5" y2="437"/>
+                  				</g>
+                  			</g>
+                  		</g>
+                  	</g>
+                  	<g id="instagram">
+                  		<g id="etichette-instagram">
+                  			<g>
+                  				<text transform="matrix(0.5734 -0.8193 0.8193 0.5734 930.2151 741.3154)" class="fill-aranciochiaro font-tradegot etichette-fontsize">images</text>
+                  			</g>
+                  			<text transform="matrix(0.9331 0.3597 -0.3597 0.9331 843.8757 536.1663)" class="etichette-arancioscuro font-tradegot etichette-fontsize">user profile</text>
+                  			<text transform="matrix(0.9761 0.2173 -0.2173 0.9761 856.9438 577.049)" class="etichette-arancioscuro font-tradegot etichette-fontsize">activity</text>
+                  			<text transform="matrix(0.7966 0.6045 -0.6045 0.7966 860.9046 490.1308)" class="etichette-arancioscuro font-tradegot etichette-fontsize">device infos</text>
+                  			<text transform="matrix(0.6311 0.7757 -0.7757 0.6311 903.6113 471.1627)" class="etichette-arancioscuro font-tradegot etichette-fontsize">contacts</text>
+                  			<g>
+                  				<text transform="matrix(0.4896 -0.872 0.872 0.4896 1075.9347 501.462)" class="fill-aranciochiaro font-tradegot etichette-fontsize">lists of content</text>
+                  			</g>
+                  			<g>
+                  				<text transform="matrix(0.7406 -0.6719 0.6719 0.7406 1099.5808 522.5491)" class="fill-aranciochiaro font-tradegot etichette-fontsize">searches</text>
+                  			</g>
+                  			<g>
+                  				<text transform="matrix(0.8604 0.5096 -0.5096 0.8604 1108.9917 682.3595)" class="fill-aranciochiaro font-tradegot etichette-fontsize">reactions</text>
+                  			</g>
+                  			<g>
+                  				<text transform="matrix(0.1899 -0.9818 0.9818 0.1899 996.4025 753.191)" class="fill-aranciochiaro font-tradegot etichette-fontsize">posts</text>
+                  			</g>
+                  		</g>
+                  		<g id="fiocco-instagram">
+                  			<line class="main-line" x1="973.6" y1="641.5" x2="1047.6" y2="567.6"/>
+                  			<line class="line-aranciochiaro" x1="970.7" y1="566.2" x2="926.3" y2="538.7"/>
+                  			<line class="main-line" x1="1046.1" y1="641.7" x2="972.2" y2="567.2"/>
+                  			<line class="line-aranciochiaro" x1="971.6" y1="567.1" x2="944.3" y2="520.4"/>
+                  			<line class="line-aranciochiaro" x1="972.5" y1="568" x2="912.9" y2="561"/>
+                  			<line class="line-aranciochiaro" x1="972.3" y1="567.8" x2="905.2" y2="585.8"/>
+                  			<line class="line-aranciochiaro" x1="1047.3" y1="567.8" x2="1066" y2="512.8"/>
+                  			<line class="line-aranciochiaro" x1="1047.4" y1="567.7" x2="1086.3" y2="528.8"/>
+                  			<line class="line-aranciochiaro" x1="1095.1" y1="670.5" x2="1047.4" y2="642.9"/>
+                  			<line class="line-aranciochiaro" x1="1004.3" y1="711.9" x2="1047.1" y2="642.6"/>
+                  			<line class="line-aranciochiaro" x1="955.6" y1="696.6" x2="972.4" y2="642.7"/>
+                  			<g>
+                  				<path class="etichette-arancioscuro" d="M907.5,587.4c-0.6,0.8-1.7,1.3-2.7,1.1c-1.5-0.3-2.5-1.7-2.3-3.3l2.8,0.5l-2.8-0.5c0.3-1.5,1.7-2.5,3.3-2.3
+                  					c1.5,0.3,2.5,1.7,2.3,3.3v0.1C907.9,586.6,907.7,587,907.5,587.4z"/>
+                  			</g>
+                  			<g>
+                  				<path class="etichette-arancioscuro" d="M946.7,522.1c-0.1,0.2-0.3,0.4-0.5,0.5c-1.2,1-3,0.8-4-0.4s-0.8-3,0.4-3.9l0,0c1.2-1,3-0.8,3.9,0.5
+                  					C947.5,519.7,947.5,521.1,946.7,522.1z"/>
+                  			</g>
+                  			<g>
+                  				<path class="etichette-arancioscuro" d="M915.1,562.6c-0.8,1-2.2,1.4-3.4,0.9c-1.4-0.6-2.1-2.3-1.4-3.7v-0.1c0.6-1.4,2.3-2,3.7-1.4s2,2.3,1.4,3.7
+                  					C915.3,562.3,915.2,562.4,915.1,562.6z"/>
+                  			</g>
+                  			<g>
+                  				<path class="etichette-arancioscuro" d="M928.4,540.5L928.4,540.5c-1,1.3-2.8,1.5-4,0.5c-1.2-0.9-1.4-2.7-0.5-3.9l0,0l0,0c1-1.2,2.7-1.4,3.9-0.5
+                  					C929.2,537.5,929.4,539.2,928.4,540.5z"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciochiaro" points="1068.8,515.2 1069.6,511.6 1066.4,509.6 1063.6,512.1 1065.1,515.6 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciochiaro" points="1088,531.9 1090.1,528.7 1087.8,525.8 1084.2,527.1 1084.4,530.8 				"/>
+                  			</g>
+                  			<g>
+
+                  					<rect x="953.3" y="694.5" transform="matrix(0.9333 -0.359 0.359 0.9333 -186.3873 389.4337)" class="fill-aranciochiaro" width="4.1" height="4.1"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciochiaro" points="1055.5,642 1042.7,638.2 1045.8,651.2 				"/>
+                  			</g>
+                  			<g>
+                  				<path class="etichette-arancioscuro" d="M976.8,572c-0.8,1-2,1.8-3.4,2.1h-0.2c-3.1,0.5-6-1.5-6.5-4.5c-0.5-3.1,1.5-6,4.5-6.5l1,5.5l-1-5.5
+                  					c3-0.6,6,1.4,6.6,4.5C978.2,569.2,977.8,570.8,976.8,572z"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciochiaro" points="1053.5,570.3 1052.8,562.8 1045.4,561.2 1041.6,567.8 1046.7,573.4 				"/>
+                  			</g>
+                  			<g>
+                  				<rect x="968.1" y="638.5" class="fill-aranciochiaro" width="8.3" height="8.3"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciochiaro" points="1099.6,670.1 1093,669 1095.3,675.3 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciochiaro" points="1006.1,715.7 1006.1,709 1000.3,712.4 				"/>
+                  			</g>
+                  		</g>
+                  		<g id="descri-instagram">
+                  			<text transform="matrix(1 0 0 1 693.737 635.1778)" class="fill-violino  font-descrizioni">launched in: </text>
+                  			<text transform="matrix(1 0 0 1 783.637 635.1778)" class="fill-aranciochiaro  font-descrizioni">2010</text>
+                  			<text transform="matrix(1 0 0 1 693.737 662.6095)" class="fill-violino  font-descrizioni">users: </text>
+                  			<text transform="matrix(1 0 0 1 739.637 662.6095)" class="fill-aranciochiaro  font-descrizioni">1.000.000.000 </text>
+                  			<text transform="matrix(1 0 0 1 693.737 680.1095)" class="fill-aranciochiaro  font-descrizioni">monthly users</text>
+                  			<g>
+                  				<text transform="matrix(1 0 0 1 693.7369 608.2004)" class="fill-violino  font-descrizioni">INSTAGRAM</text>
+                  			</g>
+                  			<g>
+                  				<g>
+                  					<line class="linea-tratteggiata1" x1="1010" y1="604.7" x2="1009.5" y2="604.7"/>
+                  					<line class="linea-tratteggiata2" x1="1008.5" y1="604.7" x2="1004.9" y2="604.7"/>
+                  					<line class="linea-tratteggiata3" x1="1004.4" y1="604.7" x2="798.3" y2="604.7"/>
+                  					<line class="linea-tratteggiata1" x1="797.8" y1="604.7" x2="797.3" y2="604.7"/>
+                  				</g>
+                  			</g>
+                  		</g>
+                  	</g>
+                  	<g id="spotify">
+                  		<g id="etichette-spotify">
+                  			<g>
+                  				<text transform="matrix(0.9761 0.2173 -0.2173 0.9761 693.7685 1264.9144)" class="fill-aranciochiaro font-tradegot etichette-fontsize">activity</text>
+                  			</g>
+                  			<g>
+                  				<text transform="matrix(0.3956 0.9184 -0.9184 0.3956 793.7361 1138.5005)" class="fill-aranciochiaro font-tradegot etichette-fontsize">saved items</text>
+                  			</g>
+                  			<g>
+                  				<text transform="matrix(0.4896 -0.872 0.872 0.4896 918.2715 1212.6688)" class="fill-aranciochiaro font-tradegot etichette-fontsize">lists of content</text>
+                  			</g>
+                  			<g>
+                  				<text transform="matrix(0.971 0.2392 -0.2392 0.971 962.9586 1368.1676)" class="fill-aranciochiaro font-tradegot etichette-fontsize">social boundaries</text>
+                  			</g>
+                  		</g>
+                  		<g id="fiocco-spotify">
+                  			<line class="main-line" x1="848.4" y1="1321.9" x2="886.1" y2="1284.2"/>
+                  			<line class="main-line" x1="884.7" y1="1358.3" x2="810.7" y2="1283.9"/>
+                  			<line class="line-aranciochiaro" x1="811" y1="1284.6" x2="751.4" y2="1277.6"/>
+                  			<line class="line-aranciochiaro" x1="811.1" y1="1284.7" x2="829.9" y2="1216.1"/>
+                  			<line class="line-aranciochiaro" x1="885.9" y1="1284.4" x2="904.6" y2="1229.4"/>
+                  			<line class="line-aranciochiaro" x1="946.7" y1="1365.4" x2="885.7" y2="1359.3"/>
+                  			<g>
+                  				<polygon class="fill-aranciochiaro" points="894.1,1358.6 881.2,1354.8 884.4,1367.8 				"/>
+                  			</g>
+                  			<g>
+                  				<path class="fill-aranciochiaro" d="M815.4,1288.7c-0.8,1-2,1.8-3.4,2.1h-0.2c-3.1,0.5-6-1.5-6.5-4.5c-0.5-3.1,1.5-6,4.5-6.5l1,5.5l-1-5.5
+                  					c3-0.6,6,1.4,6.6,4.5C816.8,1285.8,816.3,1287.4,815.4,1288.7z"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciochiaro" points="892.1,1286.9 891.3,1279.4 883.9,1277.9 880.2,1284.4 885.2,1290 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciochiaro" points="950.4,1362.2 944.3,1365.1 949.8,1368.9 				"/>
+                  			</g>
+                  			<g>
+                  				<path class="fill-aranciochiaro" d="M832,1217.6c-0.4,0.5-1,0.9-1.7,1h-0.1c-1.5,0.3-3-0.7-3.3-2.3c-0.3-1.5,0.7-3,2.3-3.3l0.5,2.8l-0.5-2.8
+                  					c1.5-0.3,3,0.7,3.3,2.2C832.7,1216.2,832.5,1217,832,1217.6z"/>
+                  			</g>
+                  			<g>
+                  				<path class="fill-aranciochiaro" d="M753.7,1279.2c-0.8,1-2.2,1.4-3.4,0.9c-1.4-0.6-2.1-2.3-1.4-3.7v-0.1c0.6-1.4,2.3-2,3.7-1.4s2,2.3,1.4,3.7
+                  					C753.9,1278.9,753.8,1279.1,753.7,1279.2z"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciochiaro" points="907.4,1231.9 908.2,1228.2 904.9,1226.3 902.1,1228.8 903.6,1232.2 				"/>
+                  			</g>
+                  		</g>
+                  		<g id="descri-spotify">
+                  			<text transform="matrix(1 0 0 1 1079.8776 1353.0009)" class="fill-violino  font-descrizioni">launched in: </text>
+                  			<text transform="matrix(1 0 0 1 1169.7776 1353.0009)" class="fill-aranciochiaro  font-descrizioni">2006</text>
+                  			<text transform="matrix(1 0 0 1 1079.8776 1380.4326)" class="fill-violino  font-descrizioni">users: &gt; </text>
+                  			<text transform="matrix(1 0 0 1 1138.2776 1380.4326)" class="fill-aranciochiaro  font-descrizioni">170.000.000</text>
+                  			<text transform="matrix(1 0 0 1 1079.8776 1397.9326)" class="fill-aranciochiaro  font-descrizioni">monthly users</text>
+                  			<g>
+                  				<text transform="matrix(1 0 0 1 1079.8774 1327.8018)" class="fill-violino font-tradegot font-descrizioni">SPOTIFY</text>
+                  			</g>
+                  			<g>
+                  				<g>
+                  					<line class="linea-tratteggiata1" x1="1068.8" y1="1321.4" x2="1068.3" y2="1321.4"/>
+                  					<line class="linea-tratteggiata2" x1="1067.3" y1="1321.4" x2="1063.8" y2="1321.4"/>
+                  					<line class="linea-tratteggiata3" x1="1063.3" y1="1321.4" x2="850.2" y2="1321.4"/>
+                  					<line class="linea-tratteggiata1" x1="849.7" y1="1321.4" x2="849.2" y2="1321.4"/>
+                  				</g>
+                  			</g>
+                  		</g>
+                  	</g>
+                  	<g id="twitter">
+                  		<g id="etichette-twitter">
+                  			<g>
+                  				<text transform="matrix(0.8741 -0.4858 0.4858 0.8741 722.7897 1037.4059)" class="fill-aranciochiaro font-tradegot etichette-fontsize">generic</text>
+                  			</g>
+                  			<g>
+                  				<text transform="matrix(0.9331 0.3597 -0.3597 0.9331 691.1691 886.1658)" class="fill-aranciomedio font-tradegot etichette-fontsize">user profile</text>
+                  			</g>
+                  			<g>
+                  				<text transform="matrix(0.9761 0.2173 -0.2173 0.9761 703.8893 929.6583)" class="fill-aranciomedio font-tradegot etichette-fontsize">activity</text>
+                  			</g>
+                  			<g>
+                  				<text transform="matrix(0.7966 0.6045 -0.6045 0.7966 709.5609 835.2018)" class="fill-aranciomedio font-tradegot etichette-fontsize">device infos</text>
+                  			</g>
+                  			<g>
+                  				<text transform="matrix(0.6311 0.7757 -0.7757 0.6311 756.8769 812.8414)" class="fill-aranciomedio font-tradegot etichette-fontsize">contacts</text>
+                  			</g>
+                  			<text transform="matrix(0.4896 -0.872 0.872 0.4896 927.8539 848.8107)" class="fill-arancioscuro font-tradegot etichette-fontsize">lists of content</text>
+                  			<text transform="matrix(0.7406 -0.6719 0.6719 0.7406 957.5248 869.5189)" class="fill-arancioscuro font-tradegot etichette-fontsize">searches</text>
+                  			<text transform="matrix(0.8453 -0.5342 0.5342 0.8453 978.1465 894.8893)" class="fill-arancioscuro font-tradegot etichette-fontsize">apps</text>
+                  			<text transform="matrix(0.9797 -0.2003 0.2003 0.9797 985.6593 922.9601)" class="fill-arancioscuro font-tradegot etichette-fontsize">advertising</text>
+                  			<g>
+                  				<text transform="matrix(0.9916 0.1296 -0.1296 0.9916 990.3688 977.3191)" class="fill-aranciomedio font-tradegot etichette-fontsize">messages</text>
+                  			</g>
+                  			<g>
+                  				<text transform="matrix(0.971 0.2392 -0.2392 0.971 979.045 1003.5245)" class="fill-aranciomedio font-tradegot etichette-fontsize">social boundaries</text>
+                  			</g>
+                  			<g>
+                  				<text transform="matrix(0.8604 0.5096 -0.5096 0.8604 961.7964 1031.5292)" class="fill-aranciomedio font-tradegot etichette-fontsize">reactions</text>
+                  			</g>
+                  			<g>
+                  				<text transform="matrix(0.5826 0.8127 -0.8127 0.5826 937.237 1057.0619)" class="fill-aranciomedio font-tradegot etichette-fontsize">network</text>
+                  			</g>
+                  			<g>
+                  				<text transform="matrix(0.1899 -0.9818 0.9818 0.1899 851.5231 1110.6099)" class="fill-aranciomedio font-tradegot etichette-fontsize">posts</text>
+                  			</g>
+                  		</g>
+                  		<g id="fiocco-twitter">
+                  			<line class="main-line" x1="828.4" y1="991.8" x2="902.3" y2="917.9"/>
+                  			<line class="line-aranciochiaro" x1="825.4" y1="916.5" x2="781" y2="889"/>
+                  			<line class="main-line" x1="900.9" y1="992" x2="826.9" y2="917.6"/>
+                  			<line class="line-aranciochiaro" x1="826.4" y1="917.5" x2="799.1" y2="870.7"/>
+                  			<line class="line-aranciochiaro" x1="827.2" y1="918.3" x2="767.6" y2="911.3"/>
+                  			<line class="line-aranciochiaro" x1="827.1" y1="918.2" x2="760" y2="936.2"/>
+                  			<line class="line-aranciochiaro" x1="902.1" y1="918.1" x2="920.8" y2="863.1"/>
+                  			<line class="line-aranciochiaro" x1="902.2" y1="918" x2="941.1" y2="879.1"/>
+                  			<line class="line-aranciochiaro" x1="902" y1="918.3" x2="957.4" y2="899.7"/>
+                  			<line class="line-aranciochiaro" x1="901.9" y1="918.4" x2="968" y2="923.1"/>
+                  			<line class="line-aranciochiaro" x1="971.3" y1="974.6" x2="901.9" y2="993"/>
+                  			<line class="line-aranciochiaro" x1="962.9" y1="999.1" x2="901.9" y2="993"/>
+                  			<line class="line-aranciochiaro" x1="949.8" y1="1020.8" x2="902.1" y2="993.2"/>
+                  			<line class="line-aranciochiaro" x1="931.8" y1="1039.4" x2="901.9" y2="993"/>
+                  			<line class="line-aranciochiaro" x1="859.1" y1="1062.2" x2="901.9" y2="993"/>
+                  			<line class="line-aranciochiaro" x1="773.8" y1="1010.7" x2="827.2" y2="992.8"/>
+                  			<g>
+                  				<polygon class="fill-aranciomedio" points="910.3,992.3 897.4,988.5 900.6,1001.5 				"/>
+                  			</g>
+                  			<g>
+                  				<path class="fill-aranciomedio" d="M831.6,922.4c-0.8,1-2,1.8-3.4,2.1H828c-3.1,0.5-6-1.5-6.5-4.5c-0.5-3.1,1.5-6,4.5-6.5l1,5.5l-1-5.5
+                  					c3-0.6,6,1.4,6.6,4.5C833,919.5,832.5,921.1,831.6,922.4z"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-arancioscuro" points="908.3,920.6 907.5,913.1 900.1,911.6 896.4,918.1 901.4,923.7 				"/>
+                  			</g>
+                  			<g>
+                  				<rect x="822.9" y="988.8" class="fill-aranciochiaro" width="8.3" height="8.3"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciomedio" points="973.4,971.1 968.1,975.2 974.4,977.7 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciomedio" points="966.6,995.9 960.5,998.8 966,1002.6 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciomedio" points="954.3,1020.5 947.7,1019.3 950,1025.6 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciomedio" points="936.2,1039.8 930.3,1036.8 930.6,1043.4 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciomedio" points="860.8,1066.1 860.8,1059.4 855.1,1062.7 				"/>
+                  			</g>
+                  			<g>
+                  				<path class="fill-aranciomedio" d="M762.2,937.7c-0.6,0.8-1.7,1.3-2.7,1.1c-1.5-0.3-2.5-1.7-2.3-3.3l2.8,0.5l-2.8-0.5
+                  					c0.3-1.5,1.7-2.5,3.3-2.3c1.5,0.3,2.5,1.7,2.3,3.3v0.1C762.7,936.9,762.5,937.3,762.2,937.7z"/>
+                  			</g>
+                  			<g>
+                  				<path class="fill-aranciomedio" d="M801.5,872.5c-0.1,0.2-0.3,0.4-0.5,0.5c-1.2,1-3,0.8-4-0.4s-0.8-3,0.4-3.9l0,0c1.2-1,3-0.8,3.9,0.5
+                  					C802.2,870.1,802.2,871.5,801.5,872.5z"/>
+                  			</g>
+                  			<g>
+                  				<path class="fill-aranciomedio" d="M769.9,912.9c-0.8,1-2.2,1.4-3.4,0.9c-1.4-0.6-2.1-2.3-1.4-3.7V910c0.6-1.4,2.3-2,3.7-1.4s2,2.3,1.4,3.7
+                  					C770.1,912.6,770,912.8,769.9,912.9z"/>
+                  			</g>
+                  			<g>
+                  				<path class="fill-aranciomedio" d="M783.2,890.8L783.2,890.8c-1,1.3-2.8,1.5-4,0.5c-1.2-0.9-1.4-2.7-0.5-3.9l0,0l0,0c1-1.2,2.7-1.4,3.9-0.5
+                  					C783.9,887.8,784.1,889.6,783.2,890.8z"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-arancioscuro" points="923.6,865.6 924.4,861.9 921.1,860 918.3,862.5 919.8,865.9 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-arancioscuro" points="942.8,882.2 944.9,879.1 942.5,876.1 939,877.4 939.1,881.2 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-arancioscuro" points="957.8,902.9 960.8,900.7 959.7,897.1 955.9,897.1 954.7,900.7 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-arancioscuro" points="967,926.2 970.7,925.4 971.1,921.6 967.7,920.1 965.2,922.9 				"/>
+                  			</g>
+                  			<g>
+
+                  					<rect x="771.8" y="1008.7" transform="matrix(0.4466 -0.8947 0.8947 0.4466 -476.1016 1251.6628)" class="fill-aranciochiaro" width="4.1" height="4.1"/>
+                  			</g>
+                  		</g>
+                  		<g id="descri-twitter">
+                  			<text transform="matrix(1 0 0 1 1097.4209 988.7344)" class="fill-violino  font-descrizioni">launched in: </text>
+                  			<text transform="matrix(1 0 0 1 1187.3209 988.7344)" class="fill-aranciochiaro  font-descrizioni">2006</text>
+                  			<text transform="matrix(1 0 0 1 1097.4209 1016.1661)" class="fill-violino  font-descrizioni">users: &gt; </text>
+                  			<text transform="matrix(1 0 0 1 1155.8209 1016.1661)" class="fill-aranciochiaro  font-descrizioni">974.000.000</text>
+                  			<text transform="matrix(1 0 0 1 1097.4209 1033.666)" class="fill-aranciochiaro  font-descrizioni">monthly users</text>
+                  			<g>
+                  				<text transform="matrix(1 0 0 1 1097.4358 956.2436)" class="fill-violino font-tradegot font-descrizioni">TWITTER</text>
+                  			</g>
+                  			<g>
+                  				<g>
+                  					<line class="linea-tratteggiata1" x1="864.5" y1="955.8" x2="865" y2="955.8"/>
+                  					<line class="linea-tratteggiata2" x1="866" y1="955.8" x2="869.5" y2="955.8"/>
+                  					<line class="linea-tratteggiata3" x1="870" y1="955.8" x2="1085.1" y2="955.8"/>
+                  					<line class="linea-tratteggiata1" x1="1085.6" y1="955.8" x2="1086.1" y2="955.8"/>
+                  				</g>
+                  			</g>
+                  		</g>
+                  	</g>
+                  	<g id="facebook">
+                  		<g id="etichette-facebook">
+                  			<g>
+                  				<text transform="matrix(0.3754 -0.9269 0.9269 0.3754 665.5088 388.7217)" class="fill-aranciochiaro font-tradegot etichette-fontsize">images</text>
+                  			</g>
+                  			<text transform="matrix(0.9807 -0.1956 0.1956 0.9807 590.7474 240.518)" class="etichette-arancioscuro font-tradegot etichette-fontsize">health</text>
+                  			<text transform="matrix(0.9761 0.2173 -0.2173 0.9761 588.2033 195.7958)" class="etichette-arancioscuro font-tradegot etichette-fontsize">activity</text>
+                  			<text transform="matrix(0.5102 0.8601 -0.8601 0.5102 638.3234 104.2884)" class="etichette-arancioscuro font-tradegot etichette-fontsize">contacts</text>
+                  			<text transform="matrix(-0.1567 0.9876 -0.9876 -0.1567 731.8549 70.0151)" class="etichette-arancioscuro font-tradegot etichette-fontsize">payments</text>
+                  			<text transform="matrix(0.2351 -0.972 0.972 0.2351 755.2188 130.7011)" class="etichette-arancioscuro font-tradegot etichette-fontsize">geolocalization</text>
+                  			<g>
+                  				<text transform="matrix(0.3054 -0.9522 0.9522 0.3054 778.3875 130.8855)" class="etichette-arancioscuro font-tradegot etichette-fontsize">chronology</text>
+                  			</g>
+                  			<g>
+                  				<text transform="matrix(0.3863 -0.9224 0.9224 0.3863 803.0275 140.0114)" class="etichette-arancioscuro font-tradegot etichette-fontsize">lists of content</text>
+                  			</g>
+                  			<g>
+                  				<text transform="matrix(0.9651 -0.2619 0.2619 0.9651 849.3022 189.3223)" class="etichette-arancioscuro font-tradegot etichette-fontsize">apps</text>
+                  			</g>
+                  			<g>
+                  				<text transform="matrix(0.9984 -5.586215e-02 5.586215e-02 0.9984 854.8192 217.9692)" class="etichette-arancioscuro font-tradegot etichette-fontsize">advertising</text>
+                  			</g>
+                  			<text transform="matrix(0.9984 5.609000e-02 -5.609000e-02 0.9984 866.751 240.796)" class="fill-arancioscuro font-tradegot etichette-fontsize">calls</text>
+                  			<text transform="matrix(0.9916 0.1296 -0.1296 0.9916 864.1767 271.058)" class="fill-arancioscuro font-tradegot etichette-fontsize">messanges</text>
+                  			<text transform="matrix(0.971 0.2392 -0.2392 0.971 853.4276 297.6686)" class="fill-arancioscuro font-tradegot etichette-fontsize">social boundaries</text>
+                  			<text transform="matrix(0.8604 0.5096 -0.5096 0.8604 837.4067 325.2965)" class="fill-arancioscuro font-tradegot etichette-fontsize">reactions</text>
+                  			<text transform="matrix(0.5826 0.8127 -0.8127 0.5826 813.65 349.0267)" class="fill-arancioscuro font-tradegot etichette-fontsize">network</text>
+                  			<text transform="matrix(0.1614 0.9869 -0.9869 0.1614 786.0672 365.5351)" class="fill-arancioscuro font-tradegot etichette-fontsize">events</text>
+                  			<text transform="matrix(0.4353 -0.9003 0.9003 0.4353 718.1328 400.592)" class="fill-arancioscuro font-tradegot etichette-fontsize">posts</text>
+                  			<g>
+                  				<text transform="matrix(0.44 -0.898 0.898 0.44 689.9863 397.9263)" class="fill-aranciochiaro font-tradegot etichette-fontsize">videos</text>
+                  			</g>
+                  		</g>
+                  		<g id="fiocco-facebook">
+                  			<line class="main-line" x1="703.7" y1="284.9" x2="777.7" y2="211"/>
+                  			<line class="main-line" x1="776.2" y1="285.1" x2="702.3" y2="210.7"/>
+                  			<line class="line-aranciochiaro" x1="701.7" y1="210.6" x2="674.4" y2="163.8"/>
+                  			<line class="line-aranciochiaro" x1="702.6" y1="211.4" x2="643" y2="204.4"/>
+                  			<line class="line-aranciochiaro" x1="702.4" y1="211.3" x2="635.3" y2="229.2"/>
+                  			<line class="line-aranciochiaro" x1="702.7" y1="211.5" x2="721.5" y2="142.9"/>
+                  			<line class="line-aranciochiaro" x1="702.4" y1="211.3" x2="747.4" y2="140.9"/>
+                  			<line class="line-aranciochiaro" x1="777.2" y1="211.6" x2="772.4" y2="145.6"/>
+                  			<line class="line-aranciochiaro" x1="777.4" y1="211.2" x2="796.1" y2="156.2"/>
+                  			<line class="line-aranciochiaro" x1="777.3" y1="211.4" x2="832.7" y2="192.8"/>
+                  			<line class="line-aranciochiaro" x1="777.2" y1="211.5" x2="843.3" y2="216.2"/>
+                  			<line class="line-aranciochiaro" x1="848" y1="241.6" x2="776.8" y2="285.7"/>
+                  			<line class="line-aranciochiaro" x1="846.7" y1="267.7" x2="777.2" y2="286.1"/>
+                  			<line class="line-aranciochiaro" x1="838.2" y1="292.2" x2="777.2" y2="286.1"/>
+                  			<line class="line-aranciochiaro" x1="825.2" y1="313.9" x2="777.5" y2="286.3"/>
+                  			<line class="line-aranciochiaro" x1="807.1" y1="332.5" x2="777.2" y2="286.1"/>
+                  			<line class="line-aranciochiaro" x1="784.9" y1="346" x2="777.1" y2="285.9"/>
+                  			<line class="line-aranciochiaro" x1="734.4" y1="355.3" x2="777.2" y2="286.1"/>
+                  			<line class="line-aranciochiaro" x1="709.2" y1="350.5" x2="702.2" y2="286.5"/>
+                  			<line class="line-aranciochiaro" x1="685.7" y1="340" x2="702.5" y2="286.2"/>
+                  			<g>
+                  				<polygon class="fill-arancioscuro" points="785.6,285.4 772.8,281.6 775.9,294.6 				"/>
+                  			</g>
+                  			<g>
+                  				<path class="etichette-arancioscuro" d="M706.9,215.5c-0.8,1-2,1.8-3.4,2.1h-0.2c-3.1,0.5-6-1.5-6.5-4.5c-0.5-3.1,1.5-6,4.5-6.5l1,5.5l-1-5.5
+                  					c3-0.6,6,1.4,6.6,4.5C708.3,212.6,707.9,214.2,706.9,215.5z"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="etichette-arancioscuro" points="783.6,213.7 782.9,206.2 775.5,204.7 771.7,211.2 776.8,216.8 				"/>
+                  			</g>
+                  			<g>
+                  				<rect x="698.2" y="281.9" class="fill-aranciochiaro" width="8.3" height="8.3"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-arancioscuro" points="848.8,237.4 845.4,243.2 852.1,243.2 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-arancioscuro" points="848.7,264.1 843.5,268.3 849.7,270.8 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-arancioscuro" points="841.9,289 835.9,291.9 841.4,295.7 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-arancioscuro" points="829.7,313.6 823.1,312.4 825.4,318.7 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-arancioscuro" points="811.6,332.9 805.6,329.9 806,336.5 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-arancioscuro" points="789.1,347.9 784.6,343 782.5,349.4 				"/>
+                  			</g>
+                  			<g>
+                  				<path class="etichette-arancioscuro" d="M749.4,142.8c-0.5,0.7-1.4,1.2-2.4,1.1h-0.1c-1.6-0.1-2.7-1.4-2.6-3c0.1-1.5,1.4-2.7,3-2.6l-0.2,2.8
+                  					l0.2-2.8c1.5,0.1,2.7,1.4,2.7,3C749.9,141.8,749.7,142.4,749.4,142.8z"/>
+                  			</g>
+                  			<g>
+                  				<path class="etichette-arancioscuro" d="M723.6,144.4c-0.4,0.5-1,0.9-1.7,1h-0.1c-1.5,0.3-3-0.7-3.3-2.3c-0.3-1.5,0.7-3,2.3-3.3l0.5,2.8l-0.5-2.8
+                  					c1.5-0.3,3,0.7,3.3,2.2C724.2,143,724,143.8,723.6,144.4z"/>
+                  			</g>
+                  			<g>
+                  				<path class="etichette-arancioscuro" d="M637.6,230.8c-0.6,0.8-1.7,1.3-2.7,1.1c-1.5-0.3-2.5-1.7-2.3-3.3l2.8,0.5l-2.8-0.5c0.3-1.5,1.7-2.5,3.3-2.3
+                  					c1.5,0.3,2.5,1.7,2.3,3.3v0.1C638,230,637.8,230.4,637.6,230.8z"/>
+                  			</g>
+                  			<g>
+                  				<path class="etichette-arancioscuro" d="M676.8,165.6c-0.1,0.2-0.3,0.4-0.5,0.5c-1.2,1-3,0.8-4-0.4s-0.8-3,0.4-3.9l0,0c1.2-1,3-0.8,3.9,0.5
+                  					C677.6,163.1,677.6,164.6,676.8,165.6z"/>
+                  			</g>
+                  			<g>
+                  				<path class="etichette-arancioscuro" d="M645.2,206c-0.8,1-2.2,1.4-3.4,0.9c-1.4-0.6-2.1-2.3-1.4-3.7v-0.1c0.6-1.4,2.3-2,3.7-1.4s2,2.3,1.4,3.7
+                  					C645.4,205.7,645.3,205.9,645.2,206z"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="etichette-arancioscuro" points="798.9,158.7 799.7,155 796.5,153.1 793.7,155.6 795.2,159 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="etichette-arancioscuro" points="833.1,196 836.2,193.8 835,190.2 831.2,190.2 830.1,193.8 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="etichette-arancioscuro" points="842.4,219.2 846.1,218.5 846.5,214.7 843,213.2 840.5,216 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="etichette-arancioscuro" points="775.6,146.7 774.4,143.1 770.6,143.2 769.5,146.8 772.6,149 				"/>
+                  			</g>
+                  			<g>
+
+                  					<rect x="683.4" y="337.9" transform="matrix(0.9333 -0.359 0.359 0.9333 -76.3559 268.7669)" class="fill-aranciochiaro" width="4.1" height="4.1"/>
+                  			</g>
+                  			<g>
+
+                  					<rect x="707.1" y="348.9" transform="matrix(0.6575 -0.7534 0.7534 0.6575 -21.5325 654.44)" class="fill-aranciochiaro" width="4.1" height="4.1"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-arancioscuro" points="736.2,359.2 736.2,352.5 730.4,355.8 				"/>
+                  			</g>
+                  		</g>
+                  		<g id="descri-facebook">
+                  			<text transform="matrix(1 0 0 1 429.1999 303.6076)" class="fill-violino  font-descrizioni">launched in: </text>
+                  			<text transform="matrix(1 0 0 1 519.0999 303.6076)" class="fill-aranciochiaro  font-descrizioni">2004</text>
+                  			<text transform="matrix(1 0 0 1 429.1999 331.0393)" class="fill-violino  font-descrizioni">users: &gt; </text>
+                  			<text transform="matrix(1 0 0 1 487.5999 331.0393)" class="fill-aranciochiaro  font-descrizioni">2.300.000.000 </text>
+                  			<text transform="matrix(1 0 0 1 429.1999 348.5393)" class="fill-aranciochiaro  font-descrizioni">monthly users</text>
+                  			<text transform="matrix(0.9999 -1.546000e-02 1.546000e-02 0.9999 429.4126 275.5536)" class="fill-violino  font-descrizioni">FACEBOOK</text>
+                  			<g>
+                  				<g>
+                  					<line class="linea-tratteggiata1" x1="741.2" y1="248.1" x2="740.7" y2="248.1"/>
+                  					<line class="linea-tratteggiata2" x1="739.7" y1="248.1" x2="736.2" y2="248.1"/>
+                  					<line class="linea-tratteggiata3" x1="735.7" y1="248.1" x2="433.6" y2="248.1"/>
+                  					<line class="linea-tratteggiata1" x1="433.1" y1="248.1" x2="432.6" y2="248.1"/>
+                  				</g>
+                  			</g>
+                  		</g>
+                  	</g>
+                  	<g id="apple">
+                  		<g id="etichette-apple">
+                  			<g>
+                  				<text transform="matrix(0.2917 -0.9565 0.9565 0.2917 151.1378 1152.1542)" class="fill-aranciomedio font-tradegot etichette-fontsize">images</text>
+                  			</g>
+                  			<g>
+                  				<text transform="matrix(0.8741 -0.4858 0.4858 0.8741 83.1864 1096.2711)" class="fill-aranciomedio font-tradegot etichette-fontsize">generic</text>
+                  			</g>
+                  			<g>
+                  				<text transform="matrix(0.9698 -0.2437 0.2437 0.9698 77.4315 1056.8599)" class="fill-aranciomedio font-tradegot etichette-fontsize">cloud</text>
+                  			</g>
+                  			<text transform="matrix(0.9331 0.3597 -0.3597 0.9331 50.9035 946.369)" class="fill-arancioscuro font-tradegot etichette-fontsize">user profile</text>
+                  			<text transform="matrix(0.9979 -6.429201e-02 6.429201e-02 0.9979 69.3748 1028.8781)" class="fill-arancioscuro font-tradegot etichette-fontsize">health</text>
+                  			<text transform="matrix(0.9761 0.2173 -0.2173 0.9761 64.5561 984.7173)" class="fill-arancioscuro font-tradegot etichette-fontsize">activity</text>
+                  			<text transform="matrix(0.7966 0.6045 -0.6045 0.7966 69.8006 902.2834)" class="fill-arancioscuro font-tradegot etichette-fontsize">device infos</text>
+                  			<text transform="matrix(0.6311 0.7757 -0.7757 0.6311 112.0175 883.9088)" class="fill-arancioscuro font-tradegot etichette-fontsize">contacts</text>
+                  			<text transform="matrix(1.955000e-02 0.9998 -0.9998 1.955000e-02 194.482 834.7905)" class="fill-arancioscuro font-tradegot etichette-fontsize">payments</text>
+                  			<text transform="matrix(9.296712e-02 -0.9957 0.9957 9.296712e-02 227.9973 889.7899)" class="fill-arancioscuro font-tradegot etichette-fontsize">geolocalization</text>
+                  			<text transform="matrix(0.1064 -0.9943 0.9943 0.1064 254.2141 883.5891)" class="fill-aranciomedio font-tradegot etichette-fontsize">chronology</text>
+                  			<text transform="matrix(0.4896 -0.872 0.872 0.4896 287.3753 900.6948)" class="fill-aranciomedio font-tradegot etichette-fontsize">lists of content</text>
+                  			<text transform="matrix(1.2989 -0.514 0.368 0.9298 324.6016 954.5747)" class="fill-aranciomedio font-tradegot etichette-fontsize">apps</text>
+                  			<text transform="matrix(0.9266 -0.376 0.376 0.9266 336.8943 1003.5803)" class="fill-aranciochiaro font-tradegot etichette-fontsize">calls</text>
+                  			<text transform="matrix(0.9953 9.701000e-02 -9.701000e-02 0.9953 329.2405 1059.936)" class="fill-aranciochiaro font-tradegot etichette-fontsize">social boundaries</text>
+                  			<text transform="matrix(0.1899 -0.9818 0.9818 0.1899 232.6723 1159.4185)" class="fill-aranciochiaro font-tradegot etichette-fontsize">posts</text>
+                  		</g>
+                  		<g id="descri-apple">
+                  			<text transform="matrix(1 0 0 1 189.757 1256.8329)" class="fill-violino  font-descrizioni">launched in: </text>
+                  			<text transform="matrix(1 0 0 1 279.657 1256.8329)" class="fill-aranciochiaro  font-descrizioni">1976</text>
+                  			<text transform="matrix(1 0 0 1 189.757 1284.2646)" class="fill-violino  font-descrizioni">users: </text>
+                  			<text transform="matrix(1 0 0 1 235.657 1284.2646)" class="fill-aranciochiaro  font-descrizioni">588.000.000</text>
+                  			<g>
+                  				<text transform="matrix(1 0 0 1 189.7571 1229.9666)" class="fill-violino font-tradegot font-descrizioni">APPLE</text>
+                  			</g>
+                  			<g>
+                  				<g>
+                  					<line class="linea-tratteggiata1" x1="216.6" y1="1200" x2="216.6" y2="1199.5"/>
+                  					<line class="linea-tratteggiata2" x1="216.6" y1="1198.5" x2="216.6" y2="1195"/>
+                  					<line class="linea-tratteggiata3" x1="216.6" y1="1194.5" x2="216.6" y2="1015.3"/>
+                  					<line class="linea-tratteggiata1" x1="216.6" y1="1014.8" x2="216.6" y2="1014.3"/>
+                  				</g>
+                  			</g>
+                  		</g>
+                  		<g id="fiocco-apple">
+                  			<line class="main-line" x1="180.4" y1="1050.1" x2="254.4" y2="976.2"/>
+                  			<line class="line-aranciochiaro" x1="177.5" y1="974.8" x2="133.1" y2="947.3"/>
+                  			<line class="main-line" x1="252.9" y1="1050.3" x2="179" y2="975.8"/>
+                  			<line class="line-aranciochiaro" x1="178.4" y1="975.7" x2="151.1" y2="929"/>
+                  			<line class="line-aranciochiaro" x1="179.3" y1="976.6" x2="119.7" y2="969.6"/>
+                  			<line class="line-aranciochiaro" x1="179.1" y1="976.4" x2="112" y2="994.4"/>
+                  			<line class="line-aranciochiaro" x1="179.3" y1="976.6" x2="110.4" y2="1020.4"/>
+                  			<line class="line-aranciochiaro" x1="179.4" y1="976.7" x2="198.2" y2="908"/>
+                  			<line class="line-aranciochiaro" x1="179.1" y1="976.4" x2="224.1" y2="906.1"/>
+                  			<line class="line-aranciochiaro" x1="253.9" y1="976.8" x2="249.1" y2="910.8"/>
+                  			<line class="line-aranciochiaro" x1="254.1" y1="976.4" x2="272.8" y2="921.4"/>
+                  			<line class="line-aranciochiaro" x1="254" y1="976.5" x2="309.4" y2="958"/>
+                  			<line class="line-aranciochiaro" x1="324.7" y1="1006.8" x2="253.5" y2="1050.8"/>
+                  			<line class="line-aranciochiaro" x1="314.9" y1="1057.4" x2="253.9" y2="1051.3"/>
+                  			<line class="line-aranciochiaro" x1="237.2" y1="1118.9" x2="253.6" y2="1051"/>
+                  			<line class="line-aranciochiaro" x1="162.4" y1="1105.2" x2="179.2" y2="1051.3"/>
+                  			<line class="line-aranciochiaro" x1="125.9" y1="1068.9" x2="179.3" y2="1051.1"/>
+                  			<line class="line-aranciochiaro" x1="114.8" y1="1045.1" x2="179.3" y2="1051.2"/>
+                  			<g>
+                  				<polygon class="fill-aranciochiaro" points="262.3,1050.6 249.5,1046.8 252.6,1059.8 				"/>
+                  			</g>
+                  			<g>
+                  				<path class="fill-arancioscuro" d="M183.6,980.6c-0.8,1-2,1.8-3.4,2.1H180c-3.1,0.5-6-1.5-6.5-4.5c-0.5-3.1,1.5-6,4.5-6.5l1,5.5l-1-5.5
+                  					c3-0.6,6,1.4,6.6,4.5C185,977.8,184.6,979.4,183.6,980.6z"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciomedio" points="260.3,978.9 259.6,971.4 252.2,969.8 248.4,976.4 253.5,982 				"/>
+                  			</g>
+                  			<g>
+                  				<rect x="174.9" y="1047.1" class="fill-aranciomedio" width="8.3" height="8.3"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciomedio" points="275.6,923.8 276.4,920.1 273.2,918.2 270.4,920.7 271.9,924.2 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciomedio" points="309.8,961.2 312.9,958.9 311.7,955.4 307.9,955.4 306.8,958.9 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciomedio" points="252.3,911.9 251.1,908.3 247.3,908.4 246.2,912 249.3,914.2 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciochiaro" points="325.5,1002.6 322.1,1008.4 328.8,1008.4 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciochiaro" points="318.6,1054.2 312.6,1057 318.1,1060.9 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciochiaro" points="240.4,1122.1 237.8,1115.9 233.8,1121.2 				"/>
+                  			</g>
+                  			<g>
+                  				<path class="fill-arancioscuro" d="M226.1,908c-0.5,0.7-1.4,1.2-2.4,1.1h-0.1c-1.5-0.1-2.7-1.4-2.6-3c0.1-1.5,1.4-2.7,3-2.6l-0.2,2.8l0.2-2.8
+                  					c1.5,0.1,2.7,1.4,2.7,3C226.6,907,226.4,907.5,226.1,908z"/>
+                  			</g>
+                  			<g>
+                  				<path class="fill-arancioscuro" d="M200.3,909.6c-0.4,0.5-1,0.9-1.7,1h-0.1c-1.5,0.3-3-0.7-3.3-2.3c-0.3-1.5,0.7-3,2.3-3.3l0.5,2.8l-0.5-2.8
+                  					c1.5-0.3,3,0.7,3.3,2.2C200.9,908.2,200.7,909,200.3,909.6z"/>
+                  			</g>
+                  			<g>
+                  				<path class="fill-arancioscuro" d="M153.5,930.7c-0.1,0.2-0.3,0.4-0.5,0.5c-1.2,1-3,0.8-4-0.4s-0.8-3,0.4-3.9l0,0c1.2-1,3-0.8,3.9,0.5
+                  					C154.3,928.3,154.3,929.7,153.5,930.7z"/>
+                  			</g>
+                  			<g>
+
+                  					<rect x="160.1" y="1103.1" transform="matrix(0.9333 -0.359 0.359 0.9333 -385.946 131.9039)" class="fill-aranciomedio" width="4.1" height="4.1"/>
+                  			</g>
+                  			<g>
+                  				<path class="fill-arancioscuro" d="M112.8,1021.7c-0.5,0.6-1.2,1.1-2,1.1c-1.5,0.1-2.9-1.1-3-2.6v-0.1c-0.1-1.5,1.1-2.9,2.6-3s2.9,1.1,3,2.6
+                  					C113.4,1020.5,113.2,1021.2,112.8,1021.7z"/>
+                  			</g>
+                  			<g>
+                  				<path class="fill-arancioscuro" d="M114.3,996c-0.6,0.8-1.7,1.3-2.7,1.1c-1.5-0.3-2.5-1.7-2.3-3.3l2.8,0.5l-2.8-0.5c0.3-1.5,1.7-2.5,3.3-2.3
+                  					c1.5,0.3,2.5,1.7,2.3,3.3v0.1C114.7,995.2,114.5,995.6,114.3,996z"/>
+                  			</g>
+                  			<g>
+                  				<path class="fill-arancioscuro" d="M121.9,971.2c-0.8,1-2.2,1.4-3.4,0.9c-1.4-0.6-2.1-2.3-1.4-3.7v-0.1c0.6-1.4,2.3-2,3.7-1.4
+                  					c1.4,0.6,2,2.3,1.4,3.7C122.1,970.9,122,971,121.9,971.2z"/>
+                  			</g>
+                  			<g>
+                  				<path class="fill-arancioscuro" d="M135.2,949.1L135.2,949.1c-1,1.3-2.8,1.5-4,0.5c-1.2-0.9-1.4-2.7-0.5-3.9l0,0l0,0c1-1.2,2.7-1.4,3.9-0.5
+                  					C136,946.1,136.2,947.8,135.2,949.1z"/>
+                  			</g>
+                  			<g>
+
+                  					<rect x="113.1" y="1043.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -705.4904 387.5779)" class="fill-aranciomedio" width="4.1" height="4.1"/>
+                  			</g>
+                  			<g>
+
+                  					<rect x="123.8" y="1067" transform="matrix(0.4466 -0.8947 0.8947 0.4466 -886.8301 704.1735)" class="fill-aranciomedio" width="4.1" height="4.1"/>
+                  			</g>
+
+                  		</g>
+                      <circle class="sfondo-platform" cx="218.1" cy="1010.3" r="130"/>
+                  	</g>
+                  	<g id="google">
+                  		<g id="etichette-google">
+                  			<text transform="matrix(0.3536 -0.9354 0.9354 0.3536 510.6864 777.9675)" class="fill-aranciochiaro font-tradegot etichette-fontsize">videos</text>
+                  			<text transform="matrix(0.5734 -0.8193 0.8193 0.5734 474.8858 765.5029)" class="fill-aranciochiaro font-tradegot etichette-fontsize">images</text>
+                  			<text transform="matrix(0.8741 -0.4858 0.4858 0.8741 415.2941 709.0401)" class="fill-aranciochiaro font-tradegot etichette-fontsize">generic</text>
+                  			<text transform="matrix(0.9331 0.3597 -0.3597 0.9331 389.5727 559.0345)" class="fill-aranciomedio font-tradegot etichette-fontsize">user profile</text>
+                  			<text transform="matrix(0.9761 0.2173 -0.2173 0.9761 395.8774 604.6542)" class="fill-aranciomedio font-tradegot etichette-fontsize">activity</text>
+                  			<text transform="matrix(0.7966 0.6045 -0.6045 0.7966 401.4246 515.0253)" class="fill-aranciomedio font-tradegot etichette-fontsize">device infos</text>
+                  			<text transform="matrix(0.6311 0.7757 -0.7757 0.6311 445.7431 491.3299)" class="fill-aranciomedio font-tradegot etichette-fontsize">contacts</text>
+                  			<text transform="matrix(0.1653 0.9862 -0.9862 0.1653 521.8224 449.5564)" class="fill-aranciomedio font-tradegot etichette-fontsize">payments</text>
+                  			<text transform="matrix(9.296712e-02 -0.9957 0.9957 9.296712e-02 565.7929 504.1986)" class="fill-aranciomedio font-tradegot etichette-fontsize">geolocalization</text>
+                  			<text transform="matrix(0.3353 -0.9421 0.9421 0.3353 595.3995 514.9644)" class="fill-arancioscuro font-tradegot etichette-fontsize">chronology</text>
+                  			<text transform="matrix(0.4896 -0.872 0.872 0.4896 620.5552 524.1624)" class="fill-arancioscuro font-tradegot etichette-fontsize">lists of content</text>
+                  			<text transform="matrix(0.7406 -0.6719 0.6719 0.7406 640.7737 543.5312)" class="fill-arancioscuro font-tradegot etichette-fontsize">searches</text>
+                  			<text transform="matrix(0.8453 -0.5342 0.5342 0.8453 660.1691 569.5618)" class="fill-arancioscuro font-tradegot etichette-fontsize">apps</text>
+                  			<text transform="matrix(0.9797 -0.2003 0.2003 0.9797 673.2903 596.9021)" class="fill-arancioscuro font-tradegot etichette-fontsize">advertising</text>
+                  			<text transform="matrix(0.9908 -0.1354 0.1354 0.9908 680.6654 621.0438)" class="fill-aranciomedio font-tradegot etichette-fontsize">calls</text>
+                  			<text transform="matrix(0.9916 0.1296 -0.1296 0.9916 679.7136 650.9001)" class="fill-aranciomedio font-tradegot etichette-fontsize">messages</text>
+                  			<text transform="matrix(0.971 0.2392 -0.2392 0.971 670.598 680.0582)" class="fill-aranciomedio font-tradegot etichette-fontsize">social boundaries</text>
+                  			<text transform="matrix(0.8604 0.5096 -0.5096 0.8604 653.9224 707.7032)" class="fill-aranciomedio font-tradegot etichette-fontsize">reactions</text>
+                  			<text transform="matrix(0.5826 0.8127 -0.8127 0.5826 631.1512 728.5878)" class="fill-aranciomedio font-tradegot etichette-fontsize">network</text>
+                  			<text transform="matrix(0.2793 0.9602 -0.9602 0.2793 600.8845 746.7791)" class="fill-aranciomedio font-tradegot etichette-fontsize">events</text>
+                  			<text transform="matrix(8.122000e-02 0.9967 -0.9967 8.122000e-02 572.2805 752.438)" class="fill-aranciomedio font-tradegot etichette-fontsize">mail</text>
+                  			<text transform="matrix(0.1899 -0.9818 0.9818 0.1899 538.8649 779.4088)" class="fill-aranciomedio font-tradegot etichette-fontsize">posts</text>
+                  		</g>
+                  		<g id="descriz-google">
+                  			<text transform="matrix(1 0 0 1 524.7029 872.2602)" class="fill-violino  font-descrizioni">launched in: </text>
+                  			<text transform="matrix(1 0 0 1 614.6029 872.2602)" class="fill-aranciochiaro  font-descrizioni">1998</text>
+                  			<text transform="matrix(1 0 0 1 524.7029 899.6919)" class="fill-violino  font-descrizioni">users: </text>
+                  			<text transform="matrix(1 0 0 1 570.6029 899.6919)" class="fill-aranciochiaro  font-descrizioni">1.000.000.000</text>
+                  			<text transform="matrix(1 0 0 1 673.0029 899.6919)" class="fill-violino  font-descrizioni"> </text>
+                  			<g>
+                  				<text transform="matrix(1 0 0 1 524.7028 846.9789)" class="fill-violino font-tradegot font-descrizioni">GOOGLE</text>
+                  			</g>
+                  			<g>
+                  				<g>
+                  					<line class="linea-tratteggiata1" x1="553.3" y1="822.7" x2="553.3" y2="822.2"/>
+                  					<line class="linea-tratteggiata2" x1="553.3" y1="821.2" x2="553.3" y2="817.6"/>
+                  					<line class="linea-tratteggiata3" x1="553.3" y1="817.1" x2="553.3" y2="629.5"/>
+                  					<line class="linea-tratteggiata1" x1="553.3" y1="629" x2="553.3" y2="628.5"/>
+                  				</g>
+                  			</g>
+                  		</g>
+                  		<g id="fiocco-google">
+                  			<line class="line-aranciochiaro" x1="599.2" y1="731.9" x2="591.3" y2="671.7"/>
+                  			<line class="line-aranciochiaro" x1="546.5" y1="736.3" x2="589.3" y2="667.1"/>
+                  			<line class="line-aranciochiaro" x1="621.3" y1="717.3" x2="591.4" y2="670.9"/>
+                  			<line class="main-line" x1="517.7" y1="665.9" x2="591.7" y2="592"/>
+                  			<line class="line-aranciochiaro" x1="514.8" y1="590.6" x2="470.4" y2="563.1"/>
+                  			<line class="main-line" x1="590.3" y1="666.1" x2="516.3" y2="591.7"/>
+                  			<line class="line-aranciochiaro" x1="515.7" y1="591.5" x2="488.4" y2="544.8"/>
+                  			<line class="line-aranciochiaro" x1="516.6" y1="592.4" x2="457" y2="585.4"/>
+                  			<line class="line-aranciochiaro" x1="516.4" y1="592.3" x2="449.4" y2="610.2"/>
+                  			<line class="line-aranciochiaro" x1="516.7" y1="592.5" x2="535.5" y2="523.8"/>
+                  			<line class="line-aranciochiaro" x1="516.4" y1="592.3" x2="561.4" y2="521.9"/>
+                  			<line class="line-aranciochiaro" x1="591.2" y1="592.6" x2="586.4" y2="526.6"/>
+                  			<line class="line-aranciochiaro" x1="591.4" y1="592.2" x2="610.1" y2="537.2"/>
+                  			<line class="line-aranciochiaro" x1="591.5" y1="592.1" x2="630.4" y2="553.2"/>
+                  			<line class="line-aranciochiaro" x1="591.3" y1="592.3" x2="646.7" y2="573.8"/>
+                  			<line class="line-aranciochiaro" x1="591.2" y1="592.4" x2="657.3" y2="597.2"/>
+                  			<line class="line-aranciochiaro" x1="662" y1="622.6" x2="590.8" y2="666.6"/>
+                  			<line class="line-aranciochiaro" x1="652.2" y1="673.2" x2="591.3" y2="667.1"/>
+                  			<line class="line-aranciochiaro" x1="639.2" y1="694.9" x2="591.5" y2="667.3"/>
+                  			<line class="line-aranciochiaro" x1="573.5" y1="738.8" x2="589.9" y2="670.9"/>
+                  			<line class="line-aranciochiaro" x1="523.2" y1="731.5" x2="516.2" y2="667.4"/>
+                  			<line class="line-aranciochiaro" x1="499.7" y1="721" x2="516.5" y2="667.1"/>
+                  			<line class="line-aranciochiaro" x1="463.2" y1="684.8" x2="516.6" y2="666.9"/>
+                  			<g>
+                  				<path class="fill-aranciomedio" d="M563.4,523.8c-0.5,0.7-1.4,1.2-2.4,1.1h-0.1c-1.5-0.1-2.7-1.4-2.6-3c0.1-1.5,1.4-2.7,3-2.6l-0.2,2.8
+                  					l0.2-2.8c1.5,0.1,2.7,1.4,2.7,3C563.9,522.8,563.7,523.3,563.4,523.8z"/>
+                  			</g>
+                  			<g>
+                  				<path class="fill-aranciomedio" d="M537.6,525.4c-0.4,0.5-1,0.9-1.7,1h-0.1c-1.5,0.3-3-0.7-3.3-2.3c-0.3-1.5,0.7-3,2.3-3.3l0.5,2.8l-0.5-2.8
+                  					c1.5-0.3,3,0.7,3.3,2.2C538.3,524,538,524.8,537.6,525.4z"/>
+                  			</g>
+                  			<g>
+                  				<path class="fill-aranciomedio" d="M451.6,611.8c-0.6,0.8-1.7,1.3-2.7,1.1c-1.5-0.3-2.5-1.7-2.3-3.3l2.8,0.5l-2.8-0.5
+                  					c0.3-1.5,1.7-2.5,3.3-2.3c1.5,0.3,2.5,1.7,2.3,3.3v0.1C452,611,451.8,611.4,451.6,611.8z"/>
+                  			</g>
+                  			<g>
+                  				<path class="fill-aranciomedio" d="M490.8,546.5c-0.1,0.2-0.3,0.4-0.5,0.5c-1.2,1-3,0.8-4-0.4s-0.8-3,0.4-3.9l0,0c1.2-1,3-0.8,3.9,0.5
+                  					C491.6,544.1,491.6,545.5,490.8,546.5z"/>
+                  			</g>
+                  			<g>
+                  				<path class="fill-aranciomedio" d="M459.2,587c-0.8,1-2.2,1.4-3.4,0.9c-1.4-0.6-2.1-2.3-1.4-3.7v-0.1c0.6-1.4,2.3-2,3.7-1.4
+                  					c1.4,0.6,2,2.3,1.4,3.7C459.4,586.7,459.3,586.9,459.2,587z"/>
+                  			</g>
+                  			<g>
+                  				<path class="fill-aranciomedio" d="M472.6,564.9C472.6,564.9,472.5,564.9,472.6,564.9c-1,1.3-2.8,1.5-4,0.5c-1.2-0.9-1.4-2.7-0.5-3.9l0,0l0,0
+                  					c1-1.2,2.7-1.4,3.9-0.5C473.3,561.9,473.5,563.6,472.6,564.9z"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-arancioscuro" points="612.9,539.6 613.7,536 610.5,534.1 607.7,536.6 609.2,540 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-arancioscuro" points="632.1,556.3 634.2,553.1 631.9,550.2 628.4,551.5 628.5,555.2 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-arancioscuro" points="647.1,577 650.2,574.7 649,571.2 645.2,571.2 644.1,574.7 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-arancioscuro" points="656.4,600.2 660.1,599.5 660.5,595.7 657.1,594.2 654.5,597 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-arancioscuro" points="589.6,527.7 588.4,524.1 584.7,524.2 583.5,527.8 586.6,530 				"/>
+                  			</g>
+                  			<g>
+
+                  					<rect x="461.1" y="682.8" transform="matrix(0.4466 -0.8947 0.8947 0.4466 -356.4268 793.3843)" class="fill-aranciochiaro" width="4.1" height="4.1"/>
+                  			</g>
+                  			<g>
+
+                  					<rect x="497.4" y="718.9" transform="matrix(0.9333 -0.359 0.359 0.9333 -225.5355 227.3886)" class="fill-aranciochiaro" width="4.1" height="4.1"/>
+                  			</g>
+                  			<g>
+
+                  					<rect x="521.1" y="729.8" transform="matrix(0.6575 -0.7534 0.7534 0.6575 -372.2819 644.7819)" class="fill-aranciochiaro" width="4.1" height="4.1"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciomedio" points="599.6,666.4 586.8,662.6 589.9,675.6 				"/>
+                  			</g>
+                  			<g>
+                  				<path class="fill-aranciomedio" d="M521,596.4c-0.8,1-2,1.8-3.4,2.1h-0.2c-3.1,0.5-6-1.5-6.5-4.5c-0.5-3.1,1.5-6,4.5-6.5l1,5.5l-1-5.5
+                  					c3-0.6,6,1.4,6.6,4.5C522.3,593.6,521.9,595.2,521,596.4z"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-arancioscuro" points="597.7,594.7 596.9,587.2 589.5,585.6 585.7,592.2 590.8,597.8 				"/>
+                  			</g>
+                  			<g>
+                  				<rect x="512.3" y="662.9" class="fill-aranciochiaro" width="8.3" height="8.3"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciomedio" points="662.8,618.4 659.4,624.2 666.1,624.2 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciomedio" points="655.9,670 649.9,672.8 655.4,676.7 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciomedio" points="643.7,694.6 637.1,693.4 639.4,699.7 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciomedio" points="576.7,742 574.1,735.8 570,741.1 				"/>
+                  			</g>
+                  			<line class="line-aranciochiaro" x1="666.7" y1="647.8" x2="597.3" y2="666.2"/>
+                  			<g>
+                  				<polygon class="fill-aranciomedio" points="668.8,644.3 663.6,648.5 669.8,650.9 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciomedio" points="625.7,717.7 619.8,714.7 620.1,721.4 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciomedio" points="548.3,740.2 548.3,733.5 542.5,736.8 				"/>
+                  			</g>
+                  			<g>
+                  				<polygon class="fill-aranciomedio" points="603.3,733.8 598.8,728.8 596.8,735.2 				"/>
+                  			</g>
+                  		</g>
+                  	</g>
+                  </g>
+</svg>

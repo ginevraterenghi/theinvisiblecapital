@@ -1,0 +1,85 @@
+platform_name,subcategory1_name,subcategory2_name,subcategory3_name,subcategory4_name,subcategory5_name,file_name,format_file,size
+apple,Altri dati,Apple Features Using iCloud,Calendar,,,Recents,xml,10
+apple,Altri dati,Apple Features Using iCloud,CallHistory,,,Recents,csv,10
+apple,Altri dati,Apple Features Using iCloud,EventKit,,,Locations,xml,10
+apple,Altri dati,Apple Features Using iCloud,FaceTime,,,Recents,xml,10
+apple,Altri dati,Apple Features Using iCloud,Health,,,Health,json,10
+apple,Altri dati,Apple Features Using iCloud,Mail,,,Recents,xml,10
+apple,Altri dati,Apple Features Using iCloud,Maps,,,Maps_Favorites_History_iOS11+,json,10
+apple,Altri dati,Apple Features Using iCloud,Maps,,,Maps_History_pre_iOS11,csv,10
+apple,Altri dati,Apple Features Using iCloud,Wallet,,,Locations,xml,10
+apple,Altri dati,Devices Registered with Apple Messaging,,,,Devices Registered with Apple Messaging,json,10
+apple,Altri dati,iCloudUsageData Set1,,,,iCloudUsageData Set1,csv,10
+apple,Altri dati,Recovery Devices,,,,Recovery Devices,json,10
+apple,App_Store_iTunes_Store_iBooks_Store_Apple_Music,Apple Music Activity,Apple Music Play Activity,,,Apple Music Play Activity,csv,10
+apple,App_Store_iTunes_Store_iBooks_Store_Apple_Music,Apple Music Activity,MusicOnboarding-1420926083-Artists-27052018,,,MusicOnboarding-1420926083-Artists-27052018,csv,10
+apple,App_Store_iTunes_Store_iBooks_Store_Apple_Music,Apple Music Activity,MusicOnboarding-1420926083-Genres-27052018,,,MusicOnboarding-1420926083-Genres-27052018,csv,10
+apple,App_Store_iTunes_Store_iBooks_Store_Apple_Music,Apple Music Activity,Social and Connect Post Information,,,Social and Connect Post Information,csv,10
+apple,App_Store_iTunes_Store_iBooks_Store_Apple_Music,Apps and Services Analytics,notifications,,,notifications,csv,10
+apple,App_Store_iTunes_Store_iBooks_Store_Apple_Music,Stores Activity,Account and Transaction History,Account History - Account Details,,Account History - Account Details,csv,10
+apple,App_Store_iTunes_Store_iBooks_Store_Apple_Music,Stores Activity,Account and Transaction History,Account History - Apple Media Products Welcome Page Action,,Account History - Apple Media Products Welcome Page Action,csv,10
+apple,App_Store_iTunes_Store_iBooks_Store_Apple_Music,Stores Activity,Account and Transaction History,Billing Info History,,Billing Info History,csv,10
+apple,App_Store_iTunes_Store_iBooks_Store_Apple_Music,Stores Activity,Account and Transaction History,Customer Device History - Computer Authorizations,,Customer Device History - Computer Authorizations,csv,10
+apple,App_Store_iTunes_Store_iBooks_Store_Apple_Music,Stores Activity,Account and Transaction History,Customer Device History - Push Notification Authorization,,Customer Device History - Push Notification Authorization,csv,10
+apple,App_Store_iTunes_Store_iBooks_Store_Apple_Music,Stores Activity,Account and Transaction History,iTunes Match Re-download History,,iTunes Match Re-download History,csv,10
+apple,App_Store_iTunes_Store_iBooks_Store_Apple_Music,Stores Activity,Account and Transaction History,Store Free Transaction History,,Store Free Transaction History,csv,10
+apple,App_Store_iTunes_Store_iBooks_Store_Apple_Music,Stores Activity,Account and Transaction History,Store Re-download and Update History,,Store Re-download and Update History,csv,10
+apple,App_Store_iTunes_Store_iBooks_Store_Apple_Music,Stores Activity,Account and Transaction History,Store Transaction History,,Store Transaction History,csv,10
+apple,App_Store_iTunes_Store_iBooks_Store_Apple_Music,Stores Activity,Apple TV and Podcast Information,Apple TV Bookmarks,,Apple TV Bookmarks,csv,10
+apple,App_Store_iTunes_Store_iBooks_Store_Apple_Music,Stores Activity,Apple TV and Podcast Information,Apple TV Favorites and Wishlist,,Apple TV Favorites and Wishlist,csv,10
+apple,App_Store_iTunes_Store_iBooks_Store_Apple_Music,Stores Activity,Apple TV and Podcast Information,Podcasts Playstate,,Podcasts Playstate,csv,10
+apple,App_Store_iTunes_Store_iBooks_Store_Apple_Music,Stores Activity,Apple TV and Podcast Information,TV App Favorites and Activity,,TV App Favorites and Activity,json,10
+apple,App_Store_iTunes_Store_iBooks_Store_Apple_Music,Stores Activity,Apple TV and Podcast Information,Your Podcasts,,Your Podcasts,csv,10
+apple,App_Store_iTunes_Store_iBooks_Store_Apple_Music,Stores Activity,iBooks Information,iBooks Collection Information,,iBooks Collection Information,json,10
+apple,App_Store_iTunes_Store_iBooks_Store_Apple_Music,Stores Activity,Other Activity,Apps And Service Analytics,,Apps And Service Analytics,csv,10
+apple,App_Store_iTunes_Store_iBooks_Store_Apple_Music,Stores Activity,Other Activity,Limit Ad Tracking Information,,Limit Ad Tracking Information,csv,10
+apple,App_Store_iTunes_Store_iBooks_Store_Apple_Music,Stores Activity,Other Activity,Media Preview - previewed,,Media Preview - previewed,csv,10
+apple,App_Store_iTunes_Store_iBooks_Store_Apple_Music,Stores Activity,Other Activity,Playlist Moderation,,Playlist Moderation,json,10
+apple,App_Store_iTunes_Store_iBooks_Store_Apple_Music,Stores Activity,Other Activity,Review profile,,Review profile,json,10
+apple,App_Store_iTunes_Store_iBooks_Store_Apple_Music,Stores Activity,Play Position Information,Playback Activity,,Playback Activity,csv,10
+apple,AppleCare,AppleCare Support,AppleCare Support,AppleCare Device Details,,AppleCare Device Details,csv,10
+apple,iCloud Photos,iCloud Photos,Albums and Favorites,Favorites,,Favorites,csv,10
+apple,iCloud Photos,iCloud Photos,Albums and Favorites,Idee,,Idee,csv,10
+apple,iCloud Photos,iCloud Photos,Albums and Favorites,WhatsApp,,WhatsApp,csv,10
+apple,iCloud Photos,iCloud Photos,Memories,some moments,,some moments,csv,10
+apple,iCloud Photos,iCloud Photos,Phots,some photos/video,,some photos/video,jpg/mp4,10
+apple,iCloud Photos,iCloud PhotosStram,some photos,some photos,,some photos,jpg,10
+apple,Game Center,Game Center Data,Game Center Data,Game Center Data,,Game Center Data,json,10
+apple,iCloud Bookmarks,Bookmarks,Bookmarks,Bookmarks,,Bookmarks,html,10
+apple,iCloud Calendars and Reminders,Calendars,event,,,event,ics,10
+apple,iCloud Calendars and Reminders,Calendars,Preferences,,,Preferences,csv,10
+apple,iCloud Calendars and Reminders,Remainders,event,,,event,ics,10
+apple,iCloud Drive,Documents,Automator,,,,,10
+apple,iCloud Drive,Documents,container,,,,,10
+apple,iCloud Drive,Documents,Dropbox,,,,,10
+apple,iCloud Drive,Documents,iBooks,,,,,10
+apple,iCloud Drive,Documents,iTunesU,,,,,10
+apple,iCloud Drive,Documents,keynote,,,,,10
+apple,iCloud Drive,Documents,mail,,,,,10
+apple,iCloud Drive,Documents,mobilemail,,,,,10
+apple,iCloud Drive,Documents,mobilesafari,,,,,10
+apple,iCloud Drive,Documents,Numbers,,,,,10
+apple,iCloud Drive,Documents,Pages,,,,,10
+apple,iCloud Drive,Documents,Preview,,,,,10
+apple,iCloud Drive,Documents,QuickTimePlayerX,,,,,10
+apple,iCloud Drive,Documents,ScriptEditor2,,,,,10
+apple,iCloud Drive,Documents,shoebox,,,,,10
+apple,iCloud Drive,Documents,Telegraph,,,,,10
+apple,iCloud Drive,Documents,TextEdit,,,,,10
+apple,iCloud Drive,Documents,weather,,,,,10
+apple,iCloud Drive,System Data,mail,MailData,,,,10
+apple,iCloud Drive,System Data,mail,ubiquitous_SyncedRules,,ubiquitous_SyncedRules,plist,10
+apple,iCloud Drive,System Data,mail,V4,Signitures,AllSignatures,plist,10
+apple,iCloud Drive,System Data,mail,SyncedRules,,SyncedRules,plist,10
+apple,iCloud Drive,System Data,mail,SyncedSmartMailboxes,,SyncedSmartMailboxes,plist,10
+apple,iCloud Drive,System Data,shoebox,UbiquitousCards,some files,some files,pkpass,10
+apple,iCloud Drive,System Data,TextInput,Dictionaries,UserDictionary,receipt.0,cdt,10
+apple,iCloud Notes,Notes,note,,,note,txt,10
+apple,iCloud Notes,Notes,Attachments,,,image,jpg,10
+apple,iCloud Notes,Recently Deleted,note,,,note,txt,10
+apple,iCloud Notes,Recently Deleted,Attachments,,,image,jpg,10
+apple,iCloud Photos,image,,,,image,jpg,10
+apple,Informazioni sull’account ID Apple e sul dispositivo,Apple ID Account Information,,,,Apple ID Account Information,csv,10
+apple,Informazioni sull’account ID Apple e sul dispositivo,Apple ID Device Information,,,,Apple ID Device Information,csv,10
+apple,Informazioni sull’account ID Apple e sul dispositivo,Apple ID SignOn Information,,,,Apple ID SignOn Information,csv,10
+apple,vCards,contact,,,,contact,vcf,10

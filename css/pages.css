@@ -1,0 +1,341 @@
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1140px;
+    }
+}
+
+@media (min-width: 992px) {
+    .container {
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 1440px) {
+  #descr-col-2 {
+    top: -1.8vw;
+}
+}
+#mobile-landing {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("../assets-svg/background.svg");
+}
+
+@media (max-width: 1220px) {
+    #mobile-landing {display: block}
+    .container {display: none}
+    footer {display: none;}
+    .menu-position {position: absolute;
+    top: 20%;
+    overflow: hidden;
+    /*white-space: nowrap;*/
+    padding-right: 0px;}
+}
+
+@media (min-width: 1220px) {
+    #mobile-landing {display: none}
+    .container {display: block}
+    footer {display: block;}
+}
+
+/* @media (min-width: 768px) {
+    .container {
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 576px) {
+    .container {
+        max-width: 100%;
+    }
+} */
+
+.header-cont {
+    position: relative;
+    height: 100vh;
+}
+
+.header-title {
+    position: absolute;
+    margin-top: 7%;
+    width: 100%;
+}
+
+.header-svg {
+    z-index: -1;
+    position: absolute;
+}
+
+.title {
+    position: relative;
+    /*width: 54%;*/
+    display: inline-block;
+}
+
+
+/*introduction*/
+
+.initial-text-box {
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+}
+
+.box-testo {
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    position: inherit;
+}
+
+.box-testo {
+    margin-right: 3%;
+}
+
+.quote {
+    padding-top: 15vh;
+    /*padding-left: 20vw;*/
+}
+
+.quote-par {
+    padding-top: 15vh;
+    margin-left: 4vw;
+}
+
+.pl-thumbnailbg {
+    margin-top: 10vh;
+    height: 80px;
+}
+
+.platform-thumbnail {
+    line-height: 80px;
+    /*margin-left: 4vw;*/
+}
+
+.platform-name-thumbnail {
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+}
+
+.cassetto-margin {
+    margin-top: 3vh;
+}
+
+.par-cassetto-margin {
+    padding-left: 5vw;
+    padding-right: 4vw;
+}
+
+.open-div-intro {
+    height: 38vw;
+}
+
+#cassetto-fb {
+    width: 95%;
+}
+
+.margin-div-closed {
+    margin-bottom: 10vh;
+}
+
+.source {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.cassetto-list {
+    position: absolute;
+    bottom: 60px;
+    width: 100%;
+}
+
+/*first-viz*/
+
+.descr {
+    position: relative;
+    width: 40%;
+}
+
+.first-viz-cont {
+    background-color: #62398F;
+    padding-top: 5vh;
+    height: 110%;
+}
+
+.first-viz-cont2 {
+    background-color: #62398F;
+}
+
+.second-viz-cont {
+    background-color: #c69ff3;
+    padding-top: 5vh;
+    height: 110%;
+}
+
+.par-top-margin {
+    padding-top: 7vh;
+}
+
+.first-viz {
+    background-color: #62398F;
+}
+
+.par-2-viz {
+    padding-left: 9%;
+    margin-top: 17px;
+}
+
+.label-cont {
+    position: -webkit-sticky;
+    /* Safari */
+    position: sticky;
+    top: 0;
+    width: 100%;
+    padding-top: 25px;
+    max-width: 300px;
+}
+
+.packing-margin {
+    padding: 5vh 30px 10vh 30px;
+}
+
+.packing {
+    display: block;
+    margin: auto;
+    margin-top: 3vw;
+}
+
+.marg-etichetta {
+    margin-top: 2vh;
+}
+/*packing*/
+.packing-etichetta{
+  position: absolute;
+  top: 0px;
+  left: 100px;
+}
+
+/*cerchiolini*/
+
+.cerchiolini-marg {
+    margin: auto auto auto 5vh;
+}
+
+#viz-cerchiolini {
+    margin: auto;
+}
+
+.viz-3-par {
+    margin-top: 100px;
+    margin-left: 12vw;
+}
+
+.leg-3-par {
+    margin-top: 100px;
+    margin-left: 5vw;
+}
+
+.margin-cerchi {
+    margin: auto;
+}
+
+.disturbo-circles {
+    transition: 0.2s;
+    position: absolute;
+    top: -46px;
+}
+
+
+/*gdpr timeline*/
+
+.time-line {
+    margin-top: 66px;
+    padding-right: 10%;
+    margin-bottom: 66px;
+}
+
+
+/*caramelle*/
+
+#legenda-caramelle {
+    padding-left: 62px;
+}
+
+.caramelle-cont {
+    height: 28.5vw;
+}
+
+.caramelle-leg {
+    height: 22vw;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.schemino {
+    height: 100%;
+    padding-top: 20px;
+    display: inline-block;
+    width: 14.285%;
+    margin-right: -4px;
+    -webkit-transition: 0.2s;
+    transition: 0.2s;
+}
+
+#schema-cont {
+    -webkit-transition: 0.2s;
+    transition: 0.2s;
+}
+
+.schema {
+    display: none;
+}
+
+.no-padding {
+    padding: 0;
+}
+
+.last {
+    margin-left: -3px;
+}
+
+.caramelle-viz {
+    background-color: #f1e6ff;
+}
+
+.caramelle-viz-cont {
+    background-color: #f1e6ff;
+    padding-top: 5vh;
+    height: 150%;
+}
+
+
+/*final chapter*/
+
+#ch-finale {
+    /*height: 100vh;*/
+}
+
+#final-title {
+    margin-left: 0;
+    margin-top: 10vh;
+}
+
+.chapt-fin-par {
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+
+#col-1-fin {
+    padding-left: 20%;
+}
+
+.corpo-link {
+  margin: 15px;
+}
+
+.par-footer {
+  margin-top: 20px;
+  width: 50%;
+}

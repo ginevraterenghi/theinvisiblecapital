@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1308.1 1589.8" style="enable-background:new 0 0 1308.1 1589.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#62398F;}
+	.st1{display:none;}
+	.st2{display:inline;}
+	.st3{fill:#EDECED;stroke:#979797;stroke-width:0.8069;}
+	.st4{enable-background:new    ;}
+	.st5{display:inline;fill:none;stroke:#000000;stroke-width:1.0839;stroke-miterlimit:10;}
+	.st6{display:inline;fill:none;stroke:#000000;stroke-width:0.8786;stroke-miterlimit:10;}
+	.st7{fill:url(#SVGID_1_);}
+	.st8{fill:none;stroke:#BABDDF;stroke-width:0.3292;}
+	.st9{fill:#6556A4;}
+	.st10{fill:#BABDDF;}
+	.st11{fill:#EE559D;}
+	.st12{fill:#B91E6F;}
+	.st13{fill:#F4A6C8;}
+	.st14{fill:none;stroke:#BABDDF;stroke-width:0.806;}
+	.st15{fill:#F396BF;}
+	.st16{fill:none;stroke:#BABDDF;stroke-width:0.7334;}
+	.st17{fill:#EE74AC;}
+	.st18{fill:none;stroke:#BABDDF;stroke-width:0.9415;}
+	.st19{fill:#F8C6DC;}
+	.st20{fill:none;stroke:#BABDDF;stroke-width:0.8188;}
+	.st21{fill:none;stroke:#BABDDF;stroke-width:0.8601;}
+	.st22{fill:#E4A3C4;}
+	.st23{fill:#FBE1EC;}
+	.st24{fill:none;stroke:#BABDDF;stroke-width:10;}
+	.st25{fill:none;stroke:#BABDDF;stroke-width:0.7;}
+	.st26{fill:#FADBE9;stroke:#BABDDF;stroke-width:0.3292;}
+	.st27{fill:#FADBE9;}
+	.st28{fill:none;stroke:#BABDDF;stroke-width:0.8095;}
+	.st29{fill:none;stroke:#BABDDF;stroke-width:0.7953;}
+	.st30{fill:#CDCCFE;}
+	.st31{fill:none;stroke:#BABDDF;stroke-width:2;}
+	.st32{fill:none;stroke:#6B5DA7;stroke-miterlimit:10;}
+	.st33{fill:#FADBE9;stroke:#BABDDF;stroke-width:2;}
+	.st34{fill:#FFFCEB;}
+	.st35{fill:none;stroke:#BABDDF;stroke-width:0.5101;}
+	.st36{fill:#FADBE9;stroke:#BABDDF;stroke-width:0.2399;}
+	.st37{fill:#FF5F27;}
+	.st38{fill:#FF754A;}
+	.st39{fill:#FF906E;}
+	.st40{fill:none;stroke:#CBCBCA;stroke-width:2.2294;}
+	.st41{fill:#BE6969;fill-opacity:0.9;}
+	.st42{fill:#FFD0BD;}
+	.st43{fill:none;stroke:#FFD0BD;stroke-width:0.5;stroke-miterlimit:10;}
+	.st44{fill:none;stroke:#BABDDF;stroke-width:0.75;}
+	.st45{fill:none;stroke:#BABDDF;stroke-width:0.75;stroke-dasharray:1.0017,1.0017,1.0017,1.0017;}
+	.st46{fill:none;stroke:#BABDDF;stroke-width:0.75;stroke-dasharray:1.0017,1.0017,1.0017,1.0017,1.0017,1.0017;}
+	.st47{fill:none;stroke:#BABDDF;stroke-width:0.75;stroke-dasharray:1.0128,1.0128,1.0128,1.0128;}
+	.st48{fill:none;stroke:#BABDDF;stroke-width:0.75;stroke-dasharray:1.0128,1.0128,1.0128,1.0128,1.0128,1.0128;}
+	.st49{fill:none;stroke:#BABDDF;stroke-width:0.75;stroke-dasharray:0.9891,0.9891,0.9891,0.9891;}
+	.st50{fill:none;stroke:#BABDDF;stroke-width:0.75;stroke-dasharray:0.9891,0.9891,0.9891,0.9891,0.9891,0.9891;}
+	.st51{fill:none;stroke:#BABDDF;stroke-width:0.75;stroke-dasharray:0.9981,0.9981,0.9981,0.9981;}
+	.st52{fill:none;stroke:#BABDDF;stroke-width:0.75;stroke-dasharray:0.9981,0.9981,0.9981,0.9981,0.9981,0.9981;}
+	.st53{fill:none;stroke:#BABDDF;stroke-width:0.75;stroke-dasharray:1.0087,1.0087,1.0087,1.0087;}
+	.st54{fill:none;stroke:#BABDDF;stroke-width:0.75;stroke-dasharray:1.0087,1.0087,1.0087,1.0087,1.0087,1.0087;}
+	.st55{fill:none;stroke:#BABDDF;stroke-width:0.75;stroke-dasharray:0.9983,0.9983,0.9983,0.9983;}
+	.st56{fill:none;stroke:#BABDDF;stroke-width:0.75;stroke-dasharray:0.9983,0.9983,0.9983,0.9983,0.9983,0.9983;}
+	.st57{fill:none;stroke:#BABDDF;stroke-width:0.75;stroke-dasharray:1.0113,1.0113,1.0113,1.0113;}
+	.st58{fill:none;stroke:#BABDDF;stroke-width:0.75;stroke-dasharray:1.0113,1.0113,1.0113,1.0113,1.0113,1.0113;}
+	.st59{font-family:'TradeGothicLH-Extended';}
+	.st60{font-size:16.292px;}
+	.st61{font-size:10px;}
+	.st62{font-family:'Monda-Regular';}
+	.st63{font-size:14.5847px;}
+	.st64{font-family:'AbrilFatface-Regular';}
+	.st65{font-size:7.1588px;}
+</style>
+<g id="background">
+</g>
+<g id="raggi_nomi" class="st1">
+</g>
+<g id="Layer_1">
+</g>
+<g id="PLAT">
+</g>
+<g id="griglia" class="st1">
+</g>
+<g id="Isolation_Mode">
+</g>
+<g id="Layer_7">
+	<g id="assex">
+		<g>
+			<line id="asse-x" class="st31" x1="61.1" y1="1510.4" x2="1265.5" y2="1510.4"/>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1039.6998 1546.3616)" class="st30 st59 st60">platform foundation year</text>
+		</g>
+	</g>
+	<g id="assey">
+		<g>
+			<text transform="matrix(0 -1 1 0 41.0018 347.6777)" class="st30 st59 st60">subscripted users in 2018</text>
+		</g>
+		<line id="asse-y" class="st31" x1="62.7" y1="115" x2="62.7" y2="1511.8"/>
+	</g>
+	<g id="whatsapp">
+		<g id="etichette-whatsapp">
+			<text transform="matrix(0.9331 0.3597 -0.3597 0.9331 779.128 370.4493)" class="st38 st59 st61">user profile</text>
+			<text transform="matrix(0.9761 0.2173 -0.2173 0.9761 789.7891 410.2421)" class="st38 st59 st61">activity</text>
+			<text transform="matrix(0.7966 0.6045 -0.6045 0.7966 795.5406 327.478)" class="st38 st59 st61">device infos</text>
+			<text transform="matrix(0.6311 0.7757 -0.7757 0.6311 840.1867 305.2955)" class="st38 st59 st61">contacts</text>
+			<g>
+				<text transform="matrix(0.9749 -0.2227 0.2227 0.9749 1054.7097 381.0626)" class="st42 st59 st61">apps</text>
+			</g>
+			<g>
+				<text transform="matrix(0.5826 0.8127 -0.8127 0.5826 1014.3787 532.382)" class="st42 st59 st61">network</text>
+			</g>
+		</g>
+		<g id="fiocco-whatsapp">
+			<line class="st33" x1="943.8" y1="437.8" x2="979.5" y2="402"/>
+			<line class="st43" x1="904.4" y1="398.6" x2="860.1" y2="371.1"/>
+			<line class="st33" x1="979.9" y1="474.1" x2="906" y2="399.6"/>
+			<line class="st43" x1="905.4" y1="399.5" x2="878.1" y2="352.8"/>
+			<line class="st43" x1="906.2" y1="400.4" x2="846.7" y2="393.4"/>
+			<line class="st43" x1="906.1" y1="400.2" x2="839" y2="418.2"/>
+			<line class="st43" x1="981" y1="400.3" x2="1036.4" y2="381.8"/>
+			<line class="st43" x1="1010.8" y1="521.4" x2="980.9" y2="475.1"/>
+			<g>
+				<polygon class="st42" points="989.3,474.3 976.5,470.6 979.6,483.6 				"/>
+			</g>
+			<g>
+				<path class="st38" d="M910.6,404.4c-0.8,1-2,1.8-3.4,2.1l-0.2,0c-3.1,0.5-6-1.5-6.5-4.5c-0.5-3.1,1.5-6,4.5-6.5l1,5.5l-1-5.5
+					c3-0.6,6,1.4,6.6,4.5C912,401.6,911.6,403.2,910.6,404.4z"/>
+			</g>
+			<g>
+				<polygon class="st42" points="987.3,402.7 986.5,395.2 979.2,393.6 975.4,400.1 980.4,405.7 				"/>
+			</g>
+			<g>
+				<path class="st38" d="M841.2,419.7c-0.6,0.8-1.7,1.3-2.7,1.1c-1.5-0.3-2.5-1.7-2.3-3.3l2.8,0.5l-2.8-0.5
+					c0.3-1.5,1.7-2.5,3.3-2.3c1.5,0.3,2.5,1.7,2.3,3.3c0,0,0,0.1,0,0.1C841.7,419,841.5,419.4,841.2,419.7z"/>
+			</g>
+			<g>
+				<path class="st38" d="M880.5,354.5c-0.1,0.2-0.3,0.4-0.5,0.5c-1.2,1-3,0.8-4-0.4c-1-1.2-0.8-3,0.4-3.9l0,0c1.2-1,3-0.8,3.9,0.5
+					C881.3,352.1,881.2,353.5,880.5,354.5z"/>
+			</g>
+			<g>
+				<path class="st38" d="M848.9,395c-0.8,1-2.2,1.4-3.4,0.9c-1.4-0.6-2.1-2.3-1.4-3.7c0,0,0-0.1,0-0.1c0.6-1.4,2.3-2,3.7-1.4
+					c1.4,0.6,2,2.3,1.4,3.7C849.1,394.7,849,394.8,848.9,395z"/>
+			</g>
+			<g>
+				<path class="st38" d="M862.2,372.8C862.2,372.9,862.2,372.9,862.2,372.8c-1,1.3-2.8,1.5-4,0.5c-1.2-0.9-1.4-2.7-0.5-3.9
+					c0,0,0,0,0,0l0,0c1-1.2,2.7-1.4,3.9-0.5C862.9,369.9,863.2,371.6,862.2,372.8z"/>
+			</g>
+			<g>
+				<polygon class="st42" points="1015.2,521.9 1009.3,518.8 1009.6,525.5 				"/>
+			</g>
+			<g>
+				<polygon class="st42" points="1036.8,384.9 1039.8,382.7 1038.7,379.1 1034.9,379.1 1033.7,382.7 				"/>
+			</g>
+		</g>
+		<g id="descri-whatsapp">
+			<text transform="matrix(1 0 0 1 678.6326 492.4428)"><tspan x="0" y="0" class="st10 st62 st63">launched in: </tspan><tspan x="89.9" y="0" class="st42 st62 st63">2009</tspan></text>
+			<text transform="matrix(1 0 0 1 678.6326 519.8745)"><tspan x="0" y="0" class="st10 st62 st63">users: </tspan><tspan x="45.9" y="0" class="st42 st62 st63">1.200.000.000 </tspan><tspan x="0" y="17.5" class="st42 st62 st63">monthly users</tspan></text>
+			<g>
+				<text transform="matrix(1 0 0 1 678.6326 468.7395)" class="st10 st62 st63">WHATSAPP</text>
+			</g>
+			<g>
+				<g>
+					<line class="st44" x1="943.9" y1="437" x2="943.4" y2="437"/>
+					<line class="st45" x1="942.4" y1="437" x2="938.9" y2="437"/>
+					<line class="st46" x1="938.4" y1="437" x2="716.5" y2="437"/>
+					<line class="st44" x1="716" y1="437" x2="715.5" y2="437"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="instagram">
+		<g id="etichette-instagram">
+			<g>
+				<text transform="matrix(0.5734 -0.8193 0.8193 0.5734 930.2152 741.3157)" class="st42 st59 st61">images</text>
+			</g>
+			<text transform="matrix(0.9331 0.3597 -0.3597 0.9331 843.8758 536.1663)" class="st38 st59 st61">user profile</text>
+			<text transform="matrix(0.9761 0.2173 -0.2173 0.9761 856.9437 577.0491)" class="st38 st59 st61">activity</text>
+			<text transform="matrix(0.7966 0.6045 -0.6045 0.7966 860.9044 490.1309)" class="st38 st59 st61">device infos</text>
+			<text transform="matrix(0.6311 0.7757 -0.7757 0.6311 903.6108 471.1626)" class="st38 st59 st61">contacts</text>
+			<g>
+				<text transform="matrix(0.4896 -0.872 0.872 0.4896 1075.9346 501.4612)" class="st42 st59 st61">lists of content</text>
+			</g>
+			<g>
+				<text transform="matrix(0.7406 -0.6719 0.6719 0.7406 1099.5808 522.5489)" class="st42 st59 st61">searches</text>
+			</g>
+			<g>
+				<text transform="matrix(0.8604 0.5096 -0.5096 0.8604 1108.9918 682.3594)" class="st42 st59 st61">reactions</text>
+			</g>
+			<g>
+				<text transform="matrix(0.1899 -0.9818 0.9818 0.1899 996.4025 753.191)" class="st42 st59 st61">posts</text>
+			</g>
+		</g>
+		<g id="fiocco-instagram">
+			<line class="st33" x1="973.6" y1="641.5" x2="1047.6" y2="567.6"/>
+			<line class="st43" x1="970.7" y1="566.2" x2="926.3" y2="538.7"/>
+			<line class="st33" x1="1046.1" y1="641.7" x2="972.2" y2="567.2"/>
+			<line class="st43" x1="971.6" y1="567.1" x2="944.3" y2="520.4"/>
+			<line class="st43" x1="972.5" y1="568" x2="912.9" y2="561"/>
+			<line class="st43" x1="972.3" y1="567.8" x2="905.2" y2="585.8"/>
+			<line class="st43" x1="1047.3" y1="567.8" x2="1066" y2="512.8"/>
+			<line class="st43" x1="1047.4" y1="567.7" x2="1086.3" y2="528.8"/>
+			<line class="st43" x1="1095.1" y1="670.5" x2="1047.4" y2="642.9"/>
+			<line class="st43" x1="1004.3" y1="711.9" x2="1047.1" y2="642.6"/>
+			<line class="st43" x1="955.6" y1="696.6" x2="972.4" y2="642.7"/>
+			<g>
+				<path class="st38" d="M907.5,587.4c-0.6,0.8-1.7,1.3-2.7,1.1c-1.5-0.3-2.5-1.7-2.3-3.3l2.8,0.5l-2.8-0.5
+					c0.3-1.5,1.7-2.5,3.3-2.3c1.5,0.3,2.5,1.7,2.3,3.3c0,0,0,0.1,0,0.1C907.9,586.6,907.7,587,907.5,587.4z"/>
+			</g>
+			<g>
+				<path class="st38" d="M946.7,522.1c-0.1,0.2-0.3,0.4-0.5,0.5c-1.2,1-3,0.8-4-0.4c-1-1.2-0.8-3,0.4-3.9l0,0c1.2-1,3-0.8,3.9,0.5
+					C947.5,519.7,947.5,521.1,946.7,522.1z"/>
+			</g>
+			<g>
+				<path class="st38" d="M915.1,562.6c-0.8,1-2.2,1.4-3.4,0.9c-1.4-0.6-2.1-2.3-1.4-3.7c0,0,0-0.1,0-0.1c0.6-1.4,2.3-2,3.7-1.4
+					c1.4,0.6,2,2.3,1.4,3.7C915.3,562.3,915.2,562.4,915.1,562.6z"/>
+			</g>
+			<g>
+				<path class="st38" d="M928.4,540.5C928.4,540.5,928.4,540.5,928.4,540.5c-1,1.3-2.8,1.5-4,0.5c-1.2-0.9-1.4-2.7-0.5-3.9
+					c0,0,0,0,0,0l0,0c1-1.2,2.7-1.4,3.9-0.5C929.2,537.5,929.4,539.2,928.4,540.5z"/>
+			</g>
+			<g>
+				<polygon class="st42" points="1068.8,515.2 1069.6,511.6 1066.4,509.6 1063.6,512.1 1065.1,515.6 				"/>
+			</g>
+			<g>
+				<polygon class="st42" points="1088,531.9 1090.1,528.7 1087.8,525.8 1084.2,527.1 1084.4,530.8 				"/>
+			</g>
+			<g>
+				
+					<rect x="953.4" y="694.5" transform="matrix(0.9333 -0.359 0.359 0.9333 -186.3994 389.4941)" class="st42" width="4.1" height="4.1"/>
+			</g>
+			<g>
+				<polygon class="st42" points="1055.5,642 1042.7,638.2 1045.8,651.2 				"/>
+			</g>
+			<g>
+				<path class="st38" d="M976.8,572c-0.8,1-2,1.8-3.4,2.1l-0.2,0c-3.1,0.5-6-1.5-6.5-4.5c-0.5-3.1,1.5-6,4.5-6.5l1,5.5l-1-5.5
+					c3-0.6,6,1.4,6.6,4.5C978.2,569.2,977.8,570.8,976.8,572z"/>
+			</g>
+			<g>
+				<polygon class="st42" points="1053.5,570.3 1052.8,562.8 1045.4,561.2 1041.6,567.8 1046.7,573.4 				"/>
+			</g>
+			<g>
+				<rect x="968.1" y="638.5" class="st42" width="8.3" height="8.3"/>
+			</g>
+			<g>
+				<polygon class="st42" points="1099.6,670.1 1093,669 1095.3,675.3 				"/>
+			</g>
+			<g>
+				<polygon class="st42" points="1006.1,715.7 1006.1,709 1000.3,712.4 				"/>
+			</g>
+		</g>
+		<g id="descri-instagram">
+			<text transform="matrix(1 0 0 1 693.737 635.1778)"><tspan x="0" y="0" class="st10 st62 st63">launched in: </tspan><tspan x="89.9" y="0" class="st42 st62 st63">2010</tspan></text>
+			<text transform="matrix(1 0 0 1 693.737 662.6095)"><tspan x="0" y="0" class="st10 st62 st63">users: </tspan><tspan x="45.9" y="0" class="st42 st62 st63">1.000.000.000 </tspan><tspan x="0" y="17.5" class="st42 st62 st63">monthly users</tspan></text>
+			<g>
+				<text transform="matrix(1 0 0 1 693.7369 608.2004)" class="st10 st62 st63">INSTAGRAM</text>
+			</g>
+			<g>
+				<g>
+					<line class="st44" x1="1010" y1="604.7" x2="1009.5" y2="604.7"/>
+					<line class="st47" x1="1008.5" y1="604.7" x2="1004.9" y2="604.7"/>
+					<line class="st48" x1="1004.4" y1="604.7" x2="798.3" y2="604.7"/>
+					<line class="st44" x1="797.8" y1="604.7" x2="797.3" y2="604.7"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="spotify">
+		<g id="etichette-spotify">
+			<g>
+				<text transform="matrix(0.9761 0.2173 -0.2173 0.9761 693.7684 1264.9144)" class="st42 st59 st61">activity</text>
+			</g>
+			<g>
+				<text transform="matrix(0.3956 0.9184 -0.9184 0.3956 793.7359 1138.5005)" class="st42 st59 st61">saved items</text>
+			</g>
+			<g>
+				<text transform="matrix(0.4896 -0.872 0.872 0.4896 918.2717 1212.6687)" class="st42 st59 st61">lists of content</text>
+			</g>
+			<g>
+				<text transform="matrix(0.971 0.2392 -0.2392 0.971 962.9586 1368.1676)" class="st42 st59 st61">social boundaries</text>
+			</g>
+		</g>
+		<g id="fiocco-spotify">
+			<line class="st33" x1="848.4" y1="1321.9" x2="886.1" y2="1284.2"/>
+			<line class="st33" x1="884.7" y1="1358.3" x2="810.7" y2="1283.9"/>
+			<line class="st43" x1="811" y1="1284.6" x2="751.4" y2="1277.6"/>
+			<line class="st43" x1="811.1" y1="1284.7" x2="829.9" y2="1216.1"/>
+			<line class="st43" x1="885.9" y1="1284.4" x2="904.6" y2="1229.4"/>
+			<line class="st43" x1="946.7" y1="1365.4" x2="885.7" y2="1359.3"/>
+			<g>
+				<polygon class="st42" points="894.1,1358.6 881.2,1354.8 884.4,1367.8 				"/>
+			</g>
+			<g>
+				<path class="st42" d="M815.4,1288.7c-0.8,1-2,1.8-3.4,2.1l-0.2,0c-3.1,0.5-6-1.5-6.5-4.5c-0.5-3.1,1.5-6,4.5-6.5l1,5.5l-1-5.5
+					c3-0.6,6,1.4,6.6,4.5C816.8,1285.8,816.3,1287.4,815.4,1288.7z"/>
+			</g>
+			<g>
+				<polygon class="st42" points="892.1,1286.9 891.3,1279.4 883.9,1277.9 880.2,1284.4 885.2,1290 				"/>
+			</g>
+			<g>
+				<polygon class="st42" points="950.4,1362.2 944.3,1365.1 949.8,1368.9 				"/>
+			</g>
+			<g>
+				<path class="st42" d="M832,1217.6c-0.4,0.5-1,0.9-1.7,1l-0.1,0c-1.5,0.3-3-0.7-3.3-2.3c-0.3-1.5,0.7-3,2.3-3.3l0.5,2.8l-0.5-2.8
+					c1.5-0.3,3,0.7,3.3,2.2C832.7,1216.2,832.5,1217,832,1217.6z"/>
+			</g>
+			<g>
+				<path class="st42" d="M753.7,1279.2c-0.8,1-2.2,1.4-3.4,0.9c-1.4-0.6-2.1-2.3-1.4-3.7c0,0,0-0.1,0-0.1c0.6-1.4,2.3-2,3.7-1.4
+					c1.4,0.6,2,2.3,1.4,3.7C753.9,1278.9,753.8,1279.1,753.7,1279.2z"/>
+			</g>
+			<g>
+				<polygon class="st42" points="907.4,1231.9 908.2,1228.2 904.9,1226.3 902.1,1228.8 903.6,1232.2 				"/>
+			</g>
+		</g>
+		<g id="descri-spotify">
+			<text transform="matrix(1 0 0 1 1079.8776 1353.0009)"><tspan x="0" y="0" class="st10 st62 st63">launched in: </tspan><tspan x="89.9" y="0" class="st42 st62 st63">2006</tspan></text>
+			<text transform="matrix(1 0 0 1 1079.8776 1380.4326)"><tspan x="0" y="0" class="st10 st62 st63">users: &gt; </tspan><tspan x="58.4" y="0" class="st42 st62 st63">170.000.000</tspan><tspan x="0" y="17.5" class="st42 st62 st63">monthly users</tspan></text>
+			<g>
+				<text transform="matrix(1 0 0 1 1079.8774 1327.8018)" class="st10 st64 st63">SPOTIFY</text>
+			</g>
+			<g>
+				<g>
+					<line class="st44" x1="1068.8" y1="1321.4" x2="1068.3" y2="1321.4"/>
+					<line class="st49" x1="1067.3" y1="1321.4" x2="1063.8" y2="1321.4"/>
+					<line class="st50" x1="1063.3" y1="1321.4" x2="850.2" y2="1321.4"/>
+					<line class="st44" x1="849.7" y1="1321.4" x2="849.2" y2="1321.4"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="twitter">
+		<g id="etichette-twitter">
+			<g>
+				<text transform="matrix(0.8741 -0.4858 0.4858 0.8741 722.7896 1037.4056)" class="st42 st59 st61">generic</text>
+			</g>
+			<g>
+				<text transform="matrix(0.9331 0.3597 -0.3597 0.9331 691.1693 886.1658)" class="st39 st59 st61">user profile</text>
+			</g>
+			<g>
+				<text transform="matrix(0.9761 0.2173 -0.2173 0.9761 703.8894 929.6583)" class="st39 st59 st61">activity</text>
+			</g>
+			<g>
+				<text transform="matrix(0.7966 0.6045 -0.6045 0.7966 709.5607 835.2018)" class="st39 st59 st61">device infos</text>
+			</g>
+			<g>
+				<text transform="matrix(0.6311 0.7757 -0.7757 0.6311 756.8768 812.8414)" class="st39 st59 st61">contacts</text>
+			</g>
+			<text transform="matrix(0.4896 -0.872 0.872 0.4896 927.8542 848.8115)" class="st37 st59 st61">lists of content</text>
+			<text transform="matrix(0.7406 -0.6719 0.6719 0.7406 957.5247 869.5185)" class="st37 st59 st61">searches</text>
+			<text transform="matrix(0.8453 -0.5342 0.5342 0.8453 978.1467 894.8889)" class="st37 st59 st61">apps</text>
+			<text transform="matrix(0.9797 -0.2003 0.2003 0.9797 985.6587 922.9598)" class="st37 st59 st61">advertising</text>
+			<g>
+				<text transform="matrix(0.9916 0.1296 -0.1296 0.9916 990.3687 977.3191)" class="st39 st59 st61">messages</text>
+			</g>
+			<g>
+				<text transform="matrix(0.971 0.2392 -0.2392 0.971 979.045 1003.5245)" class="st39 st59 st61">social boundaries</text>
+			</g>
+			<g>
+				<text transform="matrix(0.8604 0.5096 -0.5096 0.8604 961.7963 1031.5292)" class="st39 st59 st61">reactions</text>
+			</g>
+			<g>
+				<text transform="matrix(0.5826 0.8127 -0.8127 0.5826 937.2369 1057.0623)" class="st39 st59 st61">network</text>
+			</g>
+			<g>
+				<text transform="matrix(0.1899 -0.9818 0.9818 0.1899 851.5231 1110.6097)" class="st39 st59 st61">posts</text>
+			</g>
+		</g>
+		<g id="fiocco-twitter">
+			<line class="st33" x1="828.4" y1="991.8" x2="902.3" y2="917.9"/>
+			<line class="st43" x1="825.4" y1="916.5" x2="781" y2="889"/>
+			<line class="st33" x1="900.9" y1="992" x2="826.9" y2="917.6"/>
+			<line class="st43" x1="826.4" y1="917.5" x2="799.1" y2="870.7"/>
+			<line class="st43" x1="827.2" y1="918.3" x2="767.6" y2="911.3"/>
+			<line class="st43" x1="827.1" y1="918.2" x2="760" y2="936.2"/>
+			<line class="st43" x1="902.1" y1="918.1" x2="920.8" y2="863.1"/>
+			<line class="st43" x1="902.2" y1="918" x2="941.1" y2="879.1"/>
+			<line class="st43" x1="902" y1="918.3" x2="957.4" y2="899.7"/>
+			<line class="st43" x1="901.9" y1="918.4" x2="968" y2="923.1"/>
+			<line class="st43" x1="971.3" y1="974.6" x2="901.9" y2="993"/>
+			<line class="st43" x1="962.9" y1="999.1" x2="901.9" y2="993"/>
+			<line class="st43" x1="949.8" y1="1020.8" x2="902.1" y2="993.2"/>
+			<line class="st43" x1="931.8" y1="1039.4" x2="901.9" y2="993"/>
+			<line class="st43" x1="859.1" y1="1062.2" x2="901.9" y2="993"/>
+			<line class="st43" x1="773.8" y1="1010.7" x2="827.2" y2="992.8"/>
+			<g>
+				<polygon class="st39" points="910.3,992.3 897.4,988.5 900.6,1001.5 				"/>
+			</g>
+			<g>
+				<path class="st39" d="M831.6,922.4c-0.8,1-2,1.8-3.4,2.1l-0.2,0c-3.1,0.5-6-1.5-6.5-4.5c-0.5-3.1,1.5-6,4.5-6.5l1,5.5l-1-5.5
+					c3-0.6,6,1.4,6.6,4.5C833,919.5,832.5,921.1,831.6,922.4z"/>
+			</g>
+			<g>
+				<polygon class="st37" points="908.3,920.6 907.5,913.1 900.1,911.6 896.4,918.1 901.4,923.7 				"/>
+			</g>
+			<g>
+				<rect x="822.9" y="988.8" class="st42" width="8.3" height="8.3"/>
+			</g>
+			<g>
+				<polygon class="st39" points="973.4,971.1 968.1,975.2 974.4,977.7 				"/>
+			</g>
+			<g>
+				<polygon class="st39" points="966.6,995.9 960.5,998.8 966,1002.6 				"/>
+			</g>
+			<g>
+				<polygon class="st39" points="954.3,1020.5 947.7,1019.3 950,1025.6 				"/>
+			</g>
+			<g>
+				<polygon class="st39" points="936.2,1039.8 930.3,1036.8 930.6,1043.4 				"/>
+			</g>
+			<g>
+				<polygon class="st39" points="860.8,1066.1 860.8,1059.4 855.1,1062.7 				"/>
+			</g>
+			<g>
+				<path class="st39" d="M762.2,937.7c-0.6,0.8-1.7,1.3-2.7,1.1c-1.5-0.3-2.5-1.7-2.3-3.3l2.8,0.5l-2.8-0.5
+					c0.3-1.5,1.7-2.5,3.3-2.3c1.5,0.3,2.5,1.7,2.3,3.3c0,0,0,0.1,0,0.1C762.7,936.9,762.5,937.3,762.2,937.7z"/>
+			</g>
+			<g>
+				<path class="st39" d="M801.5,872.5c-0.1,0.2-0.3,0.4-0.5,0.5c-1.2,1-3,0.8-4-0.4c-1-1.2-0.8-3,0.4-3.9l0,0c1.2-1,3-0.8,3.9,0.5
+					C802.2,870.1,802.2,871.5,801.5,872.5z"/>
+			</g>
+			<g>
+				<path class="st39" d="M769.9,912.9c-0.8,1-2.2,1.4-3.4,0.9c-1.4-0.6-2.1-2.3-1.4-3.7c0,0,0-0.1,0-0.1c0.6-1.4,2.3-2,3.7-1.4
+					c1.4,0.6,2,2.3,1.4,3.7C770.1,912.6,770,912.8,769.9,912.9z"/>
+			</g>
+			<g>
+				<path class="st39" d="M783.2,890.8C783.2,890.8,783.2,890.8,783.2,890.8c-1,1.3-2.8,1.5-4,0.5c-1.2-0.9-1.4-2.7-0.5-3.9
+					c0,0,0,0,0,0l0,0c1-1.2,2.7-1.4,3.9-0.5C783.9,887.8,784.1,889.6,783.2,890.8z"/>
+			</g>
+			<g>
+				<polygon class="st37" points="923.6,865.6 924.4,861.9 921.1,860 918.3,862.5 919.8,865.9 				"/>
+			</g>
+			<g>
+				<polygon class="st37" points="942.8,882.2 944.9,879.1 942.5,876.1 939,877.4 939.1,881.2 				"/>
+			</g>
+			<g>
+				<polygon class="st37" points="957.8,902.9 960.8,900.7 959.7,897.1 955.9,897.1 954.7,900.7 				"/>
+			</g>
+			<g>
+				<polygon class="st37" points="967,926.2 970.7,925.4 971.1,921.6 967.7,920.1 965.2,922.9 				"/>
+			</g>
+			<g>
+				
+					<rect x="771.8" y="1008.6" transform="matrix(0.4466 -0.8947 0.8947 0.4466 -476.0233 1251.7242)" class="st42" width="4.1" height="4.1"/>
+			</g>
+		</g>
+		<g id="descri-twitter">
+			<text transform="matrix(1 0 0 1 1097.4209 988.7344)"><tspan x="0" y="0" class="st10 st62 st63">launched in: </tspan><tspan x="89.9" y="0" class="st42 st62 st63">2006</tspan></text>
+			<text transform="matrix(1 0 0 1 1097.4209 1016.1661)"><tspan x="0" y="0" class="st10 st62 st63">users: &gt; </tspan><tspan x="58.4" y="0" class="st42 st62 st63">974.000.000</tspan><tspan x="0" y="17.5" class="st42 st62 st63">monthly users</tspan></text>
+			<g>
+				<text transform="matrix(1 0 0 1 1097.4358 956.2436)" class="st10 st64 st63">TWITTER</text>
+			</g>
+			<g>
+				<g>
+					<line class="st44" x1="864.5" y1="955.8" x2="865" y2="955.8"/>
+					<line class="st51" x1="866" y1="955.8" x2="869.5" y2="955.8"/>
+					<line class="st52" x1="870" y1="955.8" x2="1085.1" y2="955.8"/>
+					<line class="st44" x1="1085.6" y1="955.8" x2="1086.1" y2="955.8"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="facebook">
+		<g id="etichette-facebook">
+			<g>
+				<text transform="matrix(0.3754 -0.9269 0.9269 0.3754 665.5082 388.7214)" class="st42 st59 st61">images</text>
+			</g>
+			<text transform="matrix(0.9807 -0.1956 0.1956 0.9807 590.7474 240.518)" class="st38 st59 st61">health</text>
+			<text transform="matrix(0.9761 0.2173 -0.2173 0.9761 588.2032 195.7957)" class="st38 st59 st61">activity</text>
+			<text transform="matrix(0.5102 0.8601 -0.8601 0.5102 638.3228 104.288)" class="st38 st59 st61">contacts</text>
+			<text transform="matrix(-0.1567 0.9876 -0.9876 -0.1567 731.8558 70.0152)" class="st38 st59 st61">payments</text>
+			<text transform="matrix(0.2351 -0.972 0.972 0.2351 755.2188 130.7012)" class="st38 st59 st61">geolocalization</text>
+			<g>
+				<text transform="matrix(0.3054 -0.9522 0.9522 0.3054 778.3876 130.8855)" class="st38 st59 st61">chronology</text>
+			</g>
+			<g>
+				<text transform="matrix(0.3863 -0.9224 0.9224 0.3863 803.0276 140.0117)" class="st38 st59 st61">lists of content</text>
+			</g>
+			<g>
+				<text transform="matrix(0.9651 -0.2619 0.2619 0.9651 849.3022 189.3223)" class="st38 st59 st61">apps</text>
+			</g>
+			<g>
+				<text transform="matrix(0.9984 -5.586000e-02 5.586000e-02 0.9984 854.8195 217.9686)" class="st38 st59 st61">advertising</text>
+			</g>
+			<text transform="matrix(0.9984 5.609000e-02 -5.609000e-02 0.9984 866.7509 240.796)" class="st37 st59 st61">calls</text>
+			<text transform="matrix(0.9916 0.1296 -0.1296 0.9916 864.1769 271.0579)" class="st37 st59 st61">messanges</text>
+			<text transform="matrix(0.971 0.2392 -0.2392 0.971 853.4276 297.6686)" class="st37 st59 st61">social boundaries</text>
+			<text transform="matrix(0.8604 0.5096 -0.5096 0.8604 837.4069 325.2964)" class="st37 st59 st61">reactions</text>
+			<text transform="matrix(0.5826 0.8127 -0.8127 0.5826 813.65 349.0272)" class="st37 st59 st61">network</text>
+			<text transform="matrix(0.1614 0.9869 -0.9869 0.1614 786.0668 365.535)" class="st37 st59 st61">events</text>
+			<text transform="matrix(0.4353 -0.9003 0.9003 0.4353 718.1328 400.5916)" class="st37 st59 st61">posts</text>
+			<g>
+				<text transform="matrix(0.44 -0.898 0.898 0.44 689.9864 397.9262)" class="st42 st59 st61">videos</text>
+			</g>
+		</g>
+		<g id="fiocco-facebook">
+			<line class="st33" x1="703.7" y1="284.9" x2="777.7" y2="211"/>
+			<line class="st33" x1="776.2" y1="285.1" x2="702.3" y2="210.7"/>
+			<line class="st43" x1="701.7" y1="210.6" x2="674.4" y2="163.8"/>
+			<line class="st43" x1="702.6" y1="211.4" x2="643" y2="204.4"/>
+			<line class="st43" x1="702.4" y1="211.3" x2="635.3" y2="229.2"/>
+			<line class="st43" x1="702.7" y1="211.5" x2="721.5" y2="142.9"/>
+			<line class="st43" x1="702.4" y1="211.3" x2="747.4" y2="140.9"/>
+			<line class="st43" x1="777.2" y1="211.6" x2="772.4" y2="145.6"/>
+			<line class="st43" x1="777.4" y1="211.2" x2="796.1" y2="156.2"/>
+			<line class="st43" x1="777.3" y1="211.4" x2="832.7" y2="192.8"/>
+			<line class="st43" x1="777.2" y1="211.5" x2="843.3" y2="216.2"/>
+			<line class="st43" x1="848" y1="241.6" x2="776.8" y2="285.7"/>
+			<line class="st43" x1="846.7" y1="267.7" x2="777.2" y2="286.1"/>
+			<line class="st43" x1="838.2" y1="292.2" x2="777.2" y2="286.1"/>
+			<line class="st43" x1="825.2" y1="313.9" x2="777.5" y2="286.3"/>
+			<line class="st43" x1="807.1" y1="332.5" x2="777.2" y2="286.1"/>
+			<line class="st43" x1="784.9" y1="346" x2="777.1" y2="285.9"/>
+			<line class="st43" x1="734.4" y1="355.3" x2="777.2" y2="286.1"/>
+			<line class="st43" x1="709.2" y1="350.5" x2="702.2" y2="286.5"/>
+			<line class="st43" x1="685.7" y1="340" x2="702.5" y2="286.2"/>
+			<g>
+				<polygon class="st37" points="785.6,285.4 772.8,281.6 775.9,294.6 				"/>
+			</g>
+			<g>
+				<path class="st38" d="M706.9,215.5c-0.8,1-2,1.8-3.4,2.1l-0.2,0c-3.1,0.5-6-1.5-6.5-4.5c-0.5-3.1,1.5-6,4.5-6.5l1,5.5l-1-5.5
+					c3-0.6,6,1.4,6.6,4.5C708.3,212.6,707.9,214.2,706.9,215.5z"/>
+			</g>
+			<g>
+				<polygon class="st38" points="783.6,213.7 782.9,206.2 775.5,204.7 771.7,211.2 776.8,216.8 				"/>
+			</g>
+			<g>
+				<rect x="698.2" y="281.9" class="st42" width="8.3" height="8.3"/>
+			</g>
+			<g>
+				<polygon class="st37" points="848.8,237.4 845.4,243.2 852.1,243.2 				"/>
+			</g>
+			<g>
+				<polygon class="st37" points="848.7,264.1 843.5,268.3 849.7,270.8 				"/>
+			</g>
+			<g>
+				<polygon class="st37" points="841.9,289 835.9,291.9 841.4,295.7 				"/>
+			</g>
+			<g>
+				<polygon class="st37" points="829.7,313.6 823.1,312.4 825.4,318.7 				"/>
+			</g>
+			<g>
+				<polygon class="st37" points="811.6,332.9 805.6,329.9 806,336.5 				"/>
+			</g>
+			<g>
+				<polygon class="st37" points="789.1,347.9 784.6,343 782.5,349.4 				"/>
+			</g>
+			<g>
+				<path class="st38" d="M749.4,142.8c-0.5,0.7-1.4,1.2-2.4,1.1c0,0-0.1,0-0.1,0c-1.6-0.1-2.7-1.4-2.6-3c0.1-1.5,1.4-2.7,3-2.6
+					l-0.2,2.8l0.2-2.8c1.5,0.1,2.7,1.4,2.7,3C749.9,141.8,749.7,142.4,749.4,142.8z"/>
+			</g>
+			<g>
+				<path class="st38" d="M723.6,144.4c-0.4,0.5-1,0.9-1.7,1l-0.1,0c-1.5,0.3-3-0.7-3.3-2.3c-0.3-1.5,0.7-3,2.3-3.3l0.5,2.8
+					l-0.5-2.8c1.5-0.3,3,0.7,3.3,2.2C724.2,143,724,143.8,723.6,144.4z"/>
+			</g>
+			<g>
+				<path class="st38" d="M637.6,230.8c-0.6,0.8-1.7,1.3-2.7,1.1c-1.5-0.3-2.5-1.7-2.3-3.3l2.8,0.5l-2.8-0.5
+					c0.3-1.5,1.7-2.5,3.3-2.3c1.5,0.3,2.5,1.7,2.3,3.3c0,0,0,0.1,0,0.1C638,230,637.8,230.4,637.6,230.8z"/>
+			</g>
+			<g>
+				<path class="st38" d="M676.8,165.6c-0.1,0.2-0.3,0.4-0.5,0.5c-1.2,1-3,0.8-4-0.4c-1-1.2-0.8-3,0.4-3.9l0,0c1.2-1,3-0.8,3.9,0.5
+					C677.6,163.1,677.6,164.6,676.8,165.6z"/>
+			</g>
+			<g>
+				<path class="st38" d="M645.2,206c-0.8,1-2.2,1.4-3.4,0.9c-1.4-0.6-2.1-2.3-1.4-3.7c0,0,0-0.1,0-0.1c0.6-1.4,2.3-2,3.7-1.4
+					c1.4,0.6,2,2.3,1.4,3.7C645.4,205.7,645.3,205.9,645.2,206z"/>
+			</g>
+			<g>
+				<polygon class="st38" points="798.9,158.7 799.7,155 796.5,153.1 793.7,155.6 795.2,159 				"/>
+			</g>
+			<g>
+				<polygon class="st38" points="833.1,196 836.2,193.8 835,190.2 831.2,190.2 830.1,193.8 				"/>
+			</g>
+			<g>
+				<polygon class="st38" points="842.4,219.2 846.1,218.5 846.5,214.7 843,213.2 840.5,216 				"/>
+			</g>
+			<g>
+				<polygon class="st38" points="775.6,146.7 774.4,143.1 770.6,143.2 769.5,146.8 772.6,149 				"/>
+			</g>
+			<g>
+				
+					<rect x="683.5" y="337.9" transform="matrix(0.9333 -0.359 0.359 0.9333 -76.3703 268.8142)" class="st42" width="4.1" height="4.1"/>
+			</g>
+			<g>
+				
+					<rect x="707.1" y="348.8" transform="matrix(0.6575 -0.7534 0.7534 0.6575 -21.4879 654.4951)" class="st42" width="4.1" height="4.1"/>
+			</g>
+			<g>
+				<polygon class="st37" points="736.2,359.2 736.2,352.5 730.4,355.8 				"/>
+			</g>
+		</g>
+		<g id="descri-facebook">
+			<text transform="matrix(1 0 0 1 429.1999 303.6076)"><tspan x="0" y="0" class="st10 st62 st63">launched in: </tspan><tspan x="89.9" y="0" class="st42 st62 st63">2004</tspan></text>
+			<text transform="matrix(1 0 0 1 429.1999 331.0393)"><tspan x="0" y="0" class="st10 st62 st63">users: &gt; </tspan><tspan x="58.4" y="0" class="st42 st62 st63">2.300.000.000 </tspan><tspan x="0" y="17.5" class="st42 st62 st63">monthly users</tspan></text>
+			<text transform="matrix(0.9999 -1.546000e-02 1.546000e-02 0.9999 429.4126 275.5536)" class="st10 st62 st63">FACEBOOK</text>
+			<g>
+				<g>
+					<line class="st44" x1="741.2" y1="248.1" x2="740.7" y2="248.1"/>
+					<line class="st53" x1="739.7" y1="248.1" x2="736.2" y2="248.1"/>
+					<line class="st54" x1="735.7" y1="248.1" x2="433.6" y2="248.1"/>
+					<line class="st44" x1="433.1" y1="248.1" x2="432.6" y2="248.1"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="apple">
+		<g id="etichette-apple">
+			<g>
+				<text transform="matrix(0.2917 -0.9565 0.9565 0.2917 151.1379 1152.1539)" class="st39 st59 st61">images</text>
+			</g>
+			<g>
+				<text transform="matrix(0.8741 -0.4858 0.4858 0.8741 83.1865 1096.2711)" class="st39 st59 st61">generic</text>
+			</g>
+			<g>
+				<text transform="matrix(0.9698 -0.2437 0.2437 0.9698 77.4311 1056.8597)" class="st39 st59 st61">cloud</text>
+			</g>
+			<text transform="matrix(0.9331 0.3597 -0.3597 0.9331 50.9035 946.369)" class="st37 st59 st61">user profile</text>
+			<text transform="matrix(0.9979 -6.429000e-02 6.429000e-02 0.9979 69.3744 1028.8777)" class="st37 st59 st61">health</text>
+			<text transform="matrix(0.9761 0.2173 -0.2173 0.9761 64.556 984.7173)" class="st37 st59 st61">activity</text>
+			<text transform="matrix(0.7966 0.6045 -0.6045 0.7966 69.8007 902.2834)" class="st37 st59 st61">device infos</text>
+			<text transform="matrix(0.6311 0.7757 -0.7757 0.6311 112.0178 883.9089)" class="st37 st59 st61">contacts</text>
+			<text transform="matrix(1.955000e-02 0.9998 -0.9998 1.955000e-02 194.4825 834.7905)" class="st37 st59 st61">payments</text>
+			<text transform="matrix(9.297000e-02 -0.9957 0.9957 9.297000e-02 227.9972 889.7897)" class="st37 st59 st61">geolocalization</text>
+			<text transform="matrix(0.1064 -0.9943 0.9943 0.1064 254.2141 883.5895)" class="st39 st59 st61">chronology</text>
+			<text transform="matrix(0.4896 -0.872 0.872 0.4896 287.3753 900.6936)" class="st39 st59 st61">lists of content</text>
+			<text transform="matrix(1.2989 -0.514 0.368 0.9298 324.6019 954.575)" class="st39 st59 st65">apps</text>
+			<text transform="matrix(0.9266 -0.376 0.376 0.9266 336.8943 1003.5803)" class="st42 st59 st61">calls</text>
+			<text transform="matrix(0.9953 9.701000e-02 -9.701000e-02 0.9953 329.2405 1059.936)" class="st42 st59 st61">social boundaries</text>
+			<text transform="matrix(0.1899 -0.9818 0.9818 0.1899 232.6724 1159.4187)" class="st42 st59 st61">posts</text>
+		</g>
+		<g id="descri-apple">
+			<text transform="matrix(1 0 0 1 189.757 1256.8329)"><tspan x="0" y="0" class="st10 st62 st63">launched in: </tspan><tspan x="89.9" y="0" class="st42 st62 st63">1976</tspan></text>
+			<text transform="matrix(1 0 0 1 189.757 1284.2646)"><tspan x="0" y="0" class="st10 st62 st63">users: </tspan><tspan x="45.9" y="0" class="st42 st62 st63">588.000.000</tspan></text>
+			<g>
+				<text transform="matrix(1 0 0 1 189.7571 1229.9666)" class="st10 st64 st63">APPLE</text>
+			</g>
+			<g>
+				<g>
+					<line class="st44" x1="216.6" y1="1200" x2="216.6" y2="1199.5"/>
+					<line class="st55" x1="216.6" y1="1198.5" x2="216.6" y2="1195"/>
+					<line class="st56" x1="216.6" y1="1194.5" x2="216.6" y2="1015.3"/>
+					<line class="st44" x1="216.6" y1="1014.8" x2="216.6" y2="1014.3"/>
+				</g>
+			</g>
+		</g>
+		<g id="fiocco-apple">
+			<line class="st33" x1="180.4" y1="1050.1" x2="254.4" y2="976.2"/>
+			<line class="st43" x1="177.5" y1="974.8" x2="133.1" y2="947.3"/>
+			<line class="st33" x1="252.9" y1="1050.3" x2="179" y2="975.8"/>
+			<line class="st43" x1="178.4" y1="975.7" x2="151.1" y2="929"/>
+			<line class="st43" x1="179.3" y1="976.6" x2="119.7" y2="969.6"/>
+			<line class="st43" x1="179.1" y1="976.4" x2="112" y2="994.4"/>
+			<line class="st43" x1="179.3" y1="976.6" x2="110.4" y2="1020.4"/>
+			<line class="st43" x1="179.4" y1="976.7" x2="198.2" y2="908"/>
+			<line class="st43" x1="179.1" y1="976.4" x2="224.1" y2="906.1"/>
+			<line class="st43" x1="253.9" y1="976.8" x2="249.1" y2="910.8"/>
+			<line class="st43" x1="254.1" y1="976.4" x2="272.8" y2="921.4"/>
+			<line class="st43" x1="254" y1="976.5" x2="309.4" y2="958"/>
+			<line class="st43" x1="324.7" y1="1006.8" x2="253.5" y2="1050.8"/>
+			<line class="st43" x1="314.9" y1="1057.4" x2="253.9" y2="1051.3"/>
+			<line class="st43" x1="237.2" y1="1118.9" x2="253.6" y2="1051"/>
+			<line class="st43" x1="162.4" y1="1105.2" x2="179.2" y2="1051.3"/>
+			<line class="st43" x1="125.9" y1="1068.9" x2="179.3" y2="1051.1"/>
+			<line class="st43" x1="114.8" y1="1045.1" x2="179.3" y2="1051.2"/>
+			<g>
+				<polygon class="st42" points="262.3,1050.6 249.5,1046.8 252.6,1059.8 				"/>
+			</g>
+			<g>
+				<path class="st37" d="M183.6,980.6c-0.8,1-2,1.8-3.4,2.1l-0.2,0c-3.1,0.5-6-1.5-6.5-4.5c-0.5-3.1,1.5-6,4.5-6.5l1,5.5l-1-5.5
+					c3-0.6,6,1.4,6.6,4.5C185,977.8,184.6,979.4,183.6,980.6z"/>
+			</g>
+			<g>
+				<polygon class="st39" points="260.3,978.9 259.6,971.4 252.2,969.8 248.4,976.4 253.5,982 				"/>
+			</g>
+			<g>
+				<rect x="174.9" y="1047.1" class="st39" width="8.3" height="8.3"/>
+			</g>
+			<g>
+				<polygon class="st39" points="275.6,923.8 276.4,920.1 273.2,918.2 270.4,920.7 271.9,924.2 				"/>
+			</g>
+			<g>
+				<polygon class="st39" points="309.8,961.2 312.9,958.9 311.7,955.4 307.9,955.4 306.8,958.9 				"/>
+			</g>
+			<g>
+				<polygon class="st39" points="252.3,911.9 251.1,908.3 247.3,908.4 246.2,912 249.3,914.2 				"/>
+			</g>
+			<g>
+				<polygon class="st42" points="325.5,1002.6 322.1,1008.4 328.8,1008.4 				"/>
+			</g>
+			<g>
+				<polygon class="st42" points="318.6,1054.2 312.6,1057 318.1,1060.9 				"/>
+			</g>
+			<g>
+				<polygon class="st42" points="240.4,1122.1 237.8,1115.9 233.8,1121.2 				"/>
+			</g>
+			<g>
+				<path class="st37" d="M226.1,908c-0.5,0.7-1.4,1.2-2.4,1.1c0,0-0.1,0-0.1,0c-1.5-0.1-2.7-1.4-2.6-3c0.1-1.5,1.4-2.7,3-2.6
+					l-0.2,2.8l0.2-2.8c1.5,0.1,2.7,1.4,2.7,3C226.6,907,226.4,907.5,226.1,908z"/>
+			</g>
+			<g>
+				<path class="st37" d="M200.3,909.6c-0.4,0.5-1,0.9-1.7,1l-0.1,0c-1.5,0.3-3-0.7-3.3-2.3c-0.3-1.5,0.7-3,2.3-3.3l0.5,2.8
+					l-0.5-2.8c1.5-0.3,3,0.7,3.3,2.2C200.9,908.2,200.7,909,200.3,909.6z"/>
+			</g>
+			<g>
+				<path class="st37" d="M153.5,930.7c-0.1,0.2-0.3,0.4-0.5,0.5c-1.2,1-3,0.8-4-0.4c-1-1.2-0.8-3,0.4-3.9l0,0c1.2-1,3-0.8,3.9,0.5
+					C154.3,928.3,154.3,929.7,153.5,930.7z"/>
+			</g>
+			<g>
+				
+					<rect x="160.2" y="1103.1" transform="matrix(0.9333 -0.359 0.359 0.9333 -385.9893 131.9497)" class="st39" width="4.1" height="4.1"/>
+			</g>
+			<g>
+				<path class="st37" d="M112.8,1021.7c-0.5,0.6-1.2,1.1-2,1.1c-1.5,0.1-2.9-1.1-3-2.6l0-0.1c-0.1-1.5,1.1-2.9,2.6-3
+					c1.5-0.1,2.9,1.1,3,2.6C113.4,1020.5,113.2,1021.2,112.8,1021.7z"/>
+			</g>
+			<g>
+				<path class="st37" d="M114.3,996c-0.6,0.8-1.7,1.3-2.7,1.1c-1.5-0.3-2.5-1.7-2.3-3.3l2.8,0.5l-2.8-0.5c0.3-1.5,1.7-2.5,3.3-2.3
+					c1.5,0.3,2.5,1.7,2.3,3.3c0,0,0,0.1,0,0.1C114.7,995.2,114.5,995.6,114.3,996z"/>
+			</g>
+			<g>
+				<path class="st37" d="M121.9,971.2c-0.8,1-2.2,1.4-3.4,0.9c-1.4-0.6-2.1-2.3-1.4-3.7c0,0,0-0.1,0-0.1c0.6-1.4,2.3-2,3.7-1.4
+					c1.4,0.6,2,2.3,1.4,3.7C122.1,970.9,122,971,121.9,971.2z"/>
+			</g>
+			<g>
+				<path class="st37" d="M135.2,949.1C135.2,949.1,135.2,949.1,135.2,949.1c-1,1.3-2.8,1.5-4,0.5c-1.2-0.9-1.4-2.7-0.5-3.9
+					c0,0,0,0,0,0l0,0c1-1.2,2.7-1.4,3.9-0.5C136,946.1,136.2,947.8,135.2,949.1z"/>
+			</g>
+			<g>
+				
+					<rect x="113.1" y="1043.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -705.4868 387.6467)" class="st39" width="4.1" height="4.1"/>
+			</g>
+			<g>
+				
+					<rect x="123.8" y="1066.9" transform="matrix(0.4466 -0.8947 0.8947 0.4466 -886.748 704.2145)" class="st39" width="4.1" height="4.1"/>
+			</g>
+		</g>
+	</g>
+	<g id="google">
+		<g id="etichette-google">
+			<text transform="matrix(0.3536 -0.9354 0.9354 0.3536 510.6863 777.9677)" class="st42 st59 st61">videos</text>
+			<text transform="matrix(0.5734 -0.8193 0.8193 0.5734 474.8859 765.5026)" class="st42 st59 st61">images</text>
+			<text transform="matrix(0.8741 -0.4858 0.4858 0.8741 415.294 709.04)" class="st42 st59 st61">generic</text>
+			<text transform="matrix(0.9331 0.3597 -0.3597 0.9331 389.5727 559.0345)" class="st39 st59 st61">user profile</text>
+			<text transform="matrix(0.9761 0.2173 -0.2173 0.9761 395.8774 604.6541)" class="st39 st59 st61">activity</text>
+			<text transform="matrix(0.7966 0.6045 -0.6045 0.7966 401.4248 515.0254)" class="st39 st59 st61">device infos</text>
+			<text transform="matrix(0.6311 0.7757 -0.7757 0.6311 445.7435 491.3299)" class="st39 st59 st61">contacts</text>
+			<text transform="matrix(0.1653 0.9862 -0.9862 0.1653 521.8231 449.5554)" class="st39 st59 st61">payments</text>
+			<text transform="matrix(9.297000e-02 -0.9957 0.9957 9.297000e-02 565.7925 504.1983)" class="st39 st59 st61">geolocalization</text>
+			<text transform="matrix(0.3353 -0.9421 0.9421 0.3353 595.3994 514.9646)" class="st37 st59 st61">chronology</text>
+			<text transform="matrix(0.4896 -0.872 0.872 0.4896 620.5558 524.1628)" class="st37 st59 st61">lists of content</text>
+			<text transform="matrix(0.7406 -0.6719 0.6719 0.7406 640.7737 543.5305)" class="st37 st59 st61">searches</text>
+			<text transform="matrix(0.8453 -0.5342 0.5342 0.8453 660.1696 569.5615)" class="st37 st59 st61">apps</text>
+			<text transform="matrix(0.9797 -0.2003 0.2003 0.9797 673.2902 596.9016)" class="st37 st59 st61">advertising</text>
+			<text transform="matrix(0.9908 -0.1354 0.1354 0.9908 680.6654 621.0438)" class="st39 st59 st61">calls</text>
+			<text transform="matrix(0.9916 0.1296 -0.1296 0.9916 679.7134 650.8998)" class="st39 st59 st61">messages</text>
+			<text transform="matrix(0.971 0.2392 -0.2392 0.971 670.5981 680.0582)" class="st39 st59 st61">social boundaries</text>
+			<text transform="matrix(0.8604 0.5096 -0.5096 0.8604 653.9225 707.7032)" class="st39 st59 st61">reactions</text>
+			<text transform="matrix(0.5826 0.8127 -0.8127 0.5826 631.1511 728.5878)" class="st39 st59 st61">network</text>
+			<text transform="matrix(0.2793 0.9602 -0.9602 0.2793 600.8841 746.7791)" class="st39 st59 st61">events</text>
+			<text transform="matrix(8.122000e-02 0.9967 -0.9967 8.122000e-02 572.2809 752.438)" class="st39 st59 st61">mail</text>
+			<text transform="matrix(0.1899 -0.9818 0.9818 0.1899 538.8649 779.4083)" class="st39 st59 st61">posts</text>
+		</g>
+		<g id="descriz-google">
+			<text transform="matrix(1 0 0 1 524.7029 872.2602)"><tspan x="0" y="0" class="st10 st62 st63">launched in: </tspan><tspan x="89.9" y="0" class="st42 st62 st63">1998</tspan></text>
+			<text transform="matrix(1 0 0 1 524.7029 899.6919)"><tspan x="0" y="0" class="st10 st62 st63">users: </tspan><tspan x="45.9" y="0" class="st42 st62 st63">1.000.000.000</tspan><tspan x="148.3" y="0" class="st10 st62 st63"> </tspan></text>
+			<g>
+				<text transform="matrix(1 0 0 1 524.7028 846.9789)" class="st10 st64 st63">GOOGLE</text>
+			</g>
+			<g>
+				<g>
+					<line class="st44" x1="553.3" y1="822.7" x2="553.3" y2="822.2"/>
+					<line class="st57" x1="553.3" y1="821.2" x2="553.3" y2="817.6"/>
+					<line class="st58" x1="553.3" y1="817.1" x2="553.3" y2="629.5"/>
+					<line class="st44" x1="553.3" y1="629" x2="553.3" y2="628.5"/>
+				</g>
+			</g>
+		</g>
+		<g id="fiocco-google">
+			<line class="st43" x1="599.2" y1="731.9" x2="591.3" y2="671.7"/>
+			<line class="st43" x1="546.5" y1="736.3" x2="589.3" y2="667.1"/>
+			<line class="st43" x1="621.3" y1="717.3" x2="591.4" y2="670.9"/>
+			<line class="st33" x1="517.7" y1="665.9" x2="591.7" y2="592"/>
+			<line class="st43" x1="514.8" y1="590.6" x2="470.4" y2="563.1"/>
+			<line class="st33" x1="590.3" y1="666.1" x2="516.3" y2="591.7"/>
+			<line class="st43" x1="515.7" y1="591.5" x2="488.4" y2="544.8"/>
+			<line class="st43" x1="516.6" y1="592.4" x2="457" y2="585.4"/>
+			<line class="st43" x1="516.4" y1="592.3" x2="449.4" y2="610.2"/>
+			<line class="st43" x1="516.7" y1="592.5" x2="535.5" y2="523.8"/>
+			<line class="st43" x1="516.4" y1="592.3" x2="561.4" y2="521.9"/>
+			<line class="st43" x1="591.2" y1="592.6" x2="586.4" y2="526.6"/>
+			<line class="st43" x1="591.4" y1="592.2" x2="610.1" y2="537.2"/>
+			<line class="st43" x1="591.5" y1="592.1" x2="630.4" y2="553.2"/>
+			<line class="st43" x1="591.3" y1="592.3" x2="646.7" y2="573.8"/>
+			<line class="st43" x1="591.2" y1="592.4" x2="657.3" y2="597.2"/>
+			<line class="st43" x1="662" y1="622.6" x2="590.8" y2="666.6"/>
+			<line class="st43" x1="652.2" y1="673.2" x2="591.3" y2="667.1"/>
+			<line class="st43" x1="639.2" y1="694.9" x2="591.5" y2="667.3"/>
+			<line class="st43" x1="573.5" y1="738.8" x2="589.9" y2="670.9"/>
+			<line class="st43" x1="523.2" y1="731.5" x2="516.2" y2="667.4"/>
+			<line class="st43" x1="499.7" y1="721" x2="516.5" y2="667.1"/>
+			<line class="st43" x1="463.2" y1="684.8" x2="516.6" y2="666.9"/>
+			<g>
+				<path class="st39" d="M563.4,523.8c-0.5,0.7-1.4,1.2-2.4,1.1c0,0-0.1,0-0.1,0c-1.5-0.1-2.7-1.4-2.6-3c0.1-1.5,1.4-2.7,3-2.6
+					l-0.2,2.8l0.2-2.8c1.5,0.1,2.7,1.4,2.7,3C563.9,522.8,563.7,523.3,563.4,523.8z"/>
+			</g>
+			<g>
+				<path class="st39" d="M537.6,525.4c-0.4,0.5-1,0.9-1.7,1l-0.1,0c-1.5,0.3-3-0.7-3.3-2.3c-0.3-1.5,0.7-3,2.3-3.3l0.5,2.8
+					l-0.5-2.8c1.5-0.3,3,0.7,3.3,2.2C538.3,524,538,524.8,537.6,525.4z"/>
+			</g>
+			<g>
+				<path class="st39" d="M451.6,611.8c-0.6,0.8-1.7,1.3-2.7,1.1c-1.5-0.3-2.5-1.7-2.3-3.3l2.8,0.5l-2.8-0.5
+					c0.3-1.5,1.7-2.5,3.3-2.3c1.5,0.3,2.5,1.7,2.3,3.3c0,0,0,0.1,0,0.1C452,611,451.8,611.4,451.6,611.8z"/>
+			</g>
+			<g>
+				<path class="st39" d="M490.8,546.5c-0.1,0.2-0.3,0.4-0.5,0.5c-1.2,1-3,0.8-4-0.4c-1-1.2-0.8-3,0.4-3.9l0,0c1.2-1,3-0.8,3.9,0.5
+					C491.6,544.1,491.6,545.5,490.8,546.5z"/>
+			</g>
+			<g>
+				<path class="st39" d="M459.2,587c-0.8,1-2.2,1.4-3.4,0.9c-1.4-0.6-2.1-2.3-1.4-3.7c0,0,0-0.1,0-0.1c0.6-1.4,2.3-2,3.7-1.4
+					c1.4,0.6,2,2.3,1.4,3.7C459.4,586.7,459.3,586.9,459.2,587z"/>
+			</g>
+			<g>
+				<path class="st39" d="M472.6,564.9C472.6,564.9,472.5,564.9,472.6,564.9c-1,1.3-2.8,1.5-4,0.5c-1.2-0.9-1.4-2.7-0.5-3.9
+					c0,0,0,0,0,0l0,0c1-1.2,2.7-1.4,3.9-0.5C473.3,561.9,473.5,563.6,472.6,564.9z"/>
+			</g>
+			<g>
+				<polygon class="st37" points="612.9,539.6 613.7,536 610.5,534.1 607.7,536.6 609.2,540 				"/>
+			</g>
+			<g>
+				<polygon class="st37" points="632.1,556.3 634.2,553.1 631.9,550.2 628.4,551.5 628.5,555.2 				"/>
+			</g>
+			<g>
+				<polygon class="st37" points="647.1,577 650.2,574.7 649,571.2 645.2,571.2 644.1,574.7 				"/>
+			</g>
+			<g>
+				<polygon class="st37" points="656.4,600.2 660.1,599.5 660.5,595.7 657.1,594.2 654.5,597 				"/>
+			</g>
+			<g>
+				<polygon class="st37" points="589.6,527.7 588.4,524.1 584.7,524.2 583.5,527.8 586.6,530 				"/>
+			</g>
+			<g>
+				
+					<rect x="461.1" y="682.7" transform="matrix(0.4466 -0.8947 0.8947 0.4466 -356.3218 793.4023)" class="st42" width="4.1" height="4.1"/>
+			</g>
+			<g>
+				
+					<rect x="497.5" y="718.9" transform="matrix(0.9333 -0.359 0.359 0.9333 -225.5591 227.4402)" class="st42" width="4.1" height="4.1"/>
+			</g>
+			<g>
+				
+					<rect x="521.1" y="729.8" transform="matrix(0.6575 -0.7534 0.7534 0.6575 -372.2368 644.8456)" class="st42" width="4.1" height="4.1"/>
+			</g>
+			<g>
+				<polygon class="st39" points="599.6,666.4 586.8,662.6 589.9,675.6 				"/>
+			</g>
+			<g>
+				<path class="st39" d="M521,596.4c-0.8,1-2,1.8-3.4,2.1l-0.2,0c-3.1,0.5-6-1.5-6.5-4.5c-0.5-3.1,1.5-6,4.5-6.5l1,5.5l-1-5.5
+					c3-0.6,6,1.4,6.6,4.5C522.3,593.6,521.9,595.2,521,596.4z"/>
+			</g>
+			<g>
+				<polygon class="st37" points="597.7,594.7 596.9,587.2 589.5,585.6 585.7,592.2 590.8,597.8 				"/>
+			</g>
+			<g>
+				<rect x="512.3" y="662.9" class="st42" width="8.3" height="8.3"/>
+			</g>
+			<g>
+				<polygon class="st39" points="662.8,618.4 659.4,624.2 666.1,624.2 				"/>
+			</g>
+			<g>
+				<polygon class="st39" points="655.9,670 649.9,672.8 655.4,676.7 				"/>
+			</g>
+			<g>
+				<polygon class="st39" points="643.7,694.6 637.1,693.4 639.4,699.7 				"/>
+			</g>
+			<g>
+				<polygon class="st39" points="576.7,742 574.1,735.8 570,741.1 				"/>
+			</g>
+			<line class="st43" x1="666.7" y1="647.8" x2="597.3" y2="666.2"/>
+			<g>
+				<polygon class="st39" points="668.8,644.3 663.6,648.5 669.8,650.9 				"/>
+			</g>
+			<g>
+				<polygon class="st39" points="625.7,717.7 619.8,714.7 620.1,721.4 				"/>
+			</g>
+			<g>
+				<polygon class="st39" points="548.3,740.2 548.3,733.5 542.5,736.8 				"/>
+			</g>
+			<g>
+				<polygon class="st39" points="603.3,733.8 598.8,728.8 596.8,735.2 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

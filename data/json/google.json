@@ -1,0 +1,648 @@
+{
+	"name": "google",
+	"children": [{
+		"name": "News",
+		"children": [{
+			"platform_name": "google",
+			"subcategory1_name": "News",
+			"name": "Articles",
+			"format_file": "txt",
+			"size": "10"
+		}, {
+			"platform_name": "google",
+			"subcategory1_name": "News",
+			"name": "Magazines",
+			"format_file": "txt",
+			"size": "10"
+		}, {
+			"platform_name": "google",
+			"subcategory1_name": "News",
+			"name": "Sources",
+			"format_file": "txt",
+			"size": "10"
+		}, {
+			"platform_name": "google",
+			"subcategory1_name": "News",
+			"name": "Topics",
+			"format_file": "txt",
+			"size": "10"
+		}]
+	}, {
+		"name": "Chrome",
+		"children": [{
+			"platform_name": "google",
+			"subcategory1_name": "chrome",
+			"name": "Autofill",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "google",
+			"subcategory1_name": "chrome",
+			"name": "Bookmarks",
+			"format_file": "html",
+			"size": "10"
+		}, {
+			"platform_name": "google",
+			"subcategory1_name": "chrome",
+			"name": "Browser History",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "google",
+			"subcategory1_name": "chrome",
+			"name": "Dictionary",
+			"format_file": "csv",
+			"size": "10"
+		}, {
+			"platform_name": "google",
+			"subcategory1_name": "chrome",
+			"name": "Extentions",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "google",
+			"subcategory1_name": "chrome",
+			"name": "Search Engines",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "google",
+			"subcategory1_name": "chrome",
+			"name": "Sync Settings",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}, {
+		"name": "Google+ Stream",
+		"children": [{
+			"name": "Activity Log",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "Google+ Stream",
+				"subcategory2_name": "ActivityLog",
+				"name": "#ERROR!",
+				"format_file": "html",
+				"size": "10"
+			}, {
+				"platform_name": "google",
+				"subcategory1_name": "Google+ Stream",
+				"subcategory2_name": "ActivityLog",
+				"name": "#ERROR!",
+				"format_file": "html",
+				"size": "10"
+			}, {
+				"platform_name": "google",
+				"subcategory1_name": "Google+ Stream",
+				"subcategory2_name": "ActivityLog",
+				"name": "Comments",
+				"format_file": "html",
+				"size": "10"
+			}, {
+				"platform_name": "google",
+				"subcategory1_name": "Google+ Stream",
+				"subcategory2_name": "ActivityLog",
+				"name": "Poll Votes",
+				"format_file": "html",
+				"size": "10"
+			}]
+		}]
+	}, {
+		"name": "Cloud Print",
+		"children": [{
+			"platform_name": "google",
+			"subcategory1_name": "Cloud Print",
+			"name": "Jobs Metadata Takeout",
+			"format_file": "csv",
+			"size": "10"
+		}, {
+			"platform_name": "google",
+			"subcategory1_name": "Cloud Print",
+			"name": "Printers Metadata Takeout",
+			"format_file": "csv",
+			"size": "10"
+		}]
+	}, {
+		"name": "Mail",
+		"children": [{
+			"name": "Mail",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "Mail",
+				"subcategory2_name": "Mail",
+				"name": "All mail Including Spam and Trash",
+				"format_file": "mbox",
+				"size": "10"
+			}]
+		}]
+	}, {
+		"name": "Profile",
+		"children": [{
+			"platform_name": "google",
+			"subcategory1_name": "Profile",
+			"name": "Profile",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}, {
+		"name": "YouTube",
+		"children": [{
+			"platform_name": "google",
+			"subcategory1_name": "YouTube",
+			"name": "Subscriptions",
+			"format_file": "opml",
+			"size": "10"
+		}, {
+			"name": "history",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "YouTube",
+				"subcategory2_name": "history",
+				"name": "Search History",
+				"format_file": "html",
+				"size": "10"
+			}, {
+				"platform_name": "google",
+				"subcategory1_name": "YouTube",
+				"subcategory2_name": "history",
+				"name": "Watch History",
+				"format_file": "html",
+				"size": "10"
+			}]
+		}, {
+			"name": "Watch List",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "YouTube",
+				"subcategory2_name": "watchlist",
+				"name": "Uploads",
+				"format_file": "json",
+				"size": "10"
+			}, {
+				"platform_name": "google",
+				"subcategory1_name": "YouTube",
+				"subcategory2_name": "watchlist",
+				"name": "Watch Later",
+				"format_file": "json",
+				"size": "10"
+			}, {
+				"platform_name": "google",
+				"subcategory1_name": "YouTube",
+				"subcategory2_name": "watchlist",
+				"name": "Likes",
+				"format_file": "json",
+				"size": "10"
+			}]
+		}, {
+			"name": "Playlist",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "YouTube",
+				"subcategory2_name": "playlist",
+				"name": "Uploads",
+				"format_file": "json",
+				"size": "10"
+			}, {
+				"platform_name": "google",
+				"subcategory1_name": "YouTube",
+				"subcategory2_name": "playlist",
+				"name": "Watch Later",
+				"format_file": "json",
+				"size": "10"
+			}, {
+				"platform_name": "google",
+				"subcategory1_name": "YouTube",
+				"subcategory2_name": "playlist",
+				"name": "likes",
+				"format_file": "json",
+				"size": "10"
+			}]
+		}]
+	}, {
+		"name": "GPlay, Movies and TV",
+		"children": [{
+			"platform_name": "google",
+			"subcategory1_name": "Google Play Movies _ TV",
+			"name": "Notification Preferences",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "google",
+			"subcategory1_name": "Google Play Movies _ TV",
+			"name": "Other Services",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "google",
+			"subcategory1_name": "Google Play Movies _ TV",
+			"name": "Ratings",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "google",
+			"subcategory1_name": "Google Play Movies _ TV",
+			"name": "Streaming Services",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "google",
+			"subcategory1_name": "Google Play Movies _ TV",
+			"name": "Watch List",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}, {
+		"name": "Keep",
+		"children": [{
+			"platform_name": "google",
+			"subcategory1_name": "Keep",
+			"name": "Notes",
+			"format_file": "html",
+			"size": "10"
+		}]
+	}, {
+		"name": "Google My Business",
+		"children": [{
+			"name": "account folder",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "Google My Business",
+				"subcategory2_name": "account folder",
+				"name": "MyBusiness Data",
+				"format_file": "json",
+				"size": "10"
+			}]
+		}]
+	}, {
+		"name": "Hangouts",
+		"children": [{
+			"platform_name": "google",
+			"subcategory1_name": "Hangouts",
+			"name": "Hangouts",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}, {
+		"name": "Google+ Circle",
+		"children": [{
+			"platform_name": "google",
+			"subcategory1_name": "Google+ Circle",
+			"name": "Friends",
+			"format_file": "vcf",
+			"size": "10"
+		}, {
+			"platform_name": "google",
+			"subcategory1_name": "Google+ Circle",
+			"name": "Aquietances",
+			"format_file": "vcf",
+			"size": "10"
+		}, {
+			"platform_name": "google",
+			"subcategory1_name": "Google+ Circle",
+			"name": "Family",
+			"format_file": "vcf",
+			"size": "10"
+		}, {
+			"platform_name": "google",
+			"subcategory1_name": "Google+ Circle",
+			"name": "Following",
+			"format_file": "vcf",
+			"size": "10"
+		}]
+	}, {
+		"name": "Contacts",
+		"children": [{
+			"name": "Starred in Android",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "Contacts",
+				"subcategory2_name": "Starred in Android",
+				"name": "Starred in Android",
+				"format_file": "vcf",
+				"size": "10"
+			}]
+		}, {
+			"name": "All contacts",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "Contacts",
+				"subcategory2_name": "All contacts",
+				"name": "All contacts",
+				"format_file": "vcf",
+				"size": "10"
+			}]
+		}]
+	}, {
+		"name": "GSuite Marketplace",
+		"children": [{
+			"platform_name": "google",
+			"subcategory1_name": "G Suite Marketplace",
+			"name": "README",
+			"size": "10"
+		}]
+	}, {
+		"name": "Google Pay",
+		"children": [{
+			"name": "Money sends and requests",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "Google Pay",
+				"subcategory2_name": "Money sends and requests",
+				"name": "Transactions",
+				"format_file": "csv",
+				"size": "10"
+			}]
+		}, {
+			"name": "Transactions made on Google",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "Google Pay",
+				"subcategory2_name": "Transactions made on Google",
+				"name": "Transactions",
+				"format_file": "csv",
+				"size": "10"
+			}]
+		}, {
+			"name": "Saved items including loyalty and gift cards",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "Google Pay",
+				"subcategory2_name": "Saved items including loyalty _ gift cards",
+				"name": "Loyalty Gift Cards and Offers",
+				"format_file": "pdf",
+				"size": "10"
+			}]
+		}]
+	}, {
+		"name": "Tasks",
+		"children": [{
+			"platform_name": "google",
+			"subcategory1_name": "Tasks",
+			"name": "Tasks",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}, {
+		"name": "Bookmarks",
+		"children": [{
+			"platform_name": "google",
+			"subcategory1_name": "bookmarks",
+			"name": "Bookmarks",
+			"format_file": "html",
+			"size": "10"
+		}]
+	}, {
+		"name": "Drive",
+		"children": [{
+			"platform_name": "google",
+			"subcategory1_name": "Drive",
+			"name": "projects folder",
+			"size": "10"
+		}]
+	}, {
+		"name": "Calendar",
+		"children": [{
+			"platform_name": "google",
+			"subcategory1_name": "calendar",
+			"name": "Your Calendars",
+			"format_file": "ics",
+			"size": "10"
+		}]
+	}, {
+		"name": "Google Photos",
+		"children": [{
+			"platform_name": "google",
+			"subcategory1_name": "Google Photos",
+			"name": "Comments on Shared Albums",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"name": "Folder by date",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "Google Photos",
+				"subcategory2_name": "Folder by date",
+				"size": "10"
+			}]
+		}, {
+			"name": "Instand Upload",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "Google Photos",
+				"subcategory2_name": "Instand Upload",
+				"name": "metadata",
+				"format_file": "json",
+				"size": "10"
+			}]
+		}]
+	}, {
+		"name": "My Activity",
+		"children": [{
+			"name": "News",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "My Activity",
+				"subcategory2_name": "News",
+				"name": "MyActivity",
+				"format_file": "html",
+				"size": "10"
+			}]
+		}, {
+			"name": "Ads",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "My Activity",
+				"subcategory2_name": "Ads",
+				"name": "MyActivity",
+				"format_file": "html",
+				"size": "10"
+			}]
+		}, {
+			"name": "YouTube",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "My Activity",
+				"subcategory2_name": "YouTube",
+				"name": "MyActivity",
+				"format_file": "html",
+				"size": "10"
+			}]
+		}, {
+			"name": "GPlay Store",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "My Activity",
+				"subcategory2_name": "Google_Play_Store",
+				"name": "MyActivity",
+				"format_file": "html",
+				"size": "10"
+			}]
+		}, {
+			"name": "Search",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "My Activity",
+				"subcategory2_name": "Search",
+				"name": "MyActivity",
+				"format_file": "html",
+				"size": "10"
+			}]
+		}, {
+			"name": "Image_Search",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "My Activity",
+				"subcategory2_name": "Image_Search",
+				"name": "MyActivity",
+				"format_file": "html",
+				"size": "10"
+			}]
+		}, {
+			"name": "Help",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "My Activity",
+				"subcategory2_name": "Help",
+				"name": "MyActivity",
+				"format_file": "html",
+				"size": "10"
+			}]
+		}, {
+			"name": "Voice and Audio",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "My Activity",
+				"subcategory2_name": "Voice_and_audio",
+				"name": "MyActivity",
+				"format_file": "html",
+				"size": "10"
+			}, {
+				"platform_name": "google",
+				"subcategory1_name": "My Activity",
+				"subcategory2_name": "Voice_and_audio",
+				"name": "mp3 files",
+				"format_file": "mp3",
+				"size": "10"
+			}]
+		}, {
+			"name": "Videos Searches",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "My Activity",
+				"subcategory2_name": "Videos Searches",
+				"name": "MyActivity",
+				"format_file": "html",
+				"size": "10"
+			}]
+		}, {
+			"name": "Shopping",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "My Activity",
+				"subcategory2_name": "Shopping",
+				"name": "MyActivity",
+				"format_file": "html",
+				"size": "10"
+			}]
+		}, {
+			"name": "Chrome",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "My Activity",
+				"subcategory2_name": "Chrome",
+				"name": "MyActivity",
+				"format_file": "html",
+				"size": "10"
+			}]
+		}, {
+			"name": "Developers",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "My Activity",
+				"subcategory2_name": "Developers",
+				"name": "MyActivity",
+				"format_file": "html",
+				"size": "10"
+			}]
+		}, {
+			"name": "Maps",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "My Activity",
+				"subcategory2_name": "Maps",
+				"name": "MyActivity",
+				"format_file": "html",
+				"size": "10"
+			}]
+		}, {
+			"name": "Android",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "My Activity",
+				"subcategory2_name": "Android",
+				"name": "MyActivity",
+				"format_file": "html",
+				"size": "10"
+			}]
+		}, {
+			"name": "Books",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "My Activity",
+				"subcategory2_name": "Books",
+				"name": "MyActivity",
+				"format_file": "html",
+				"size": "10"
+			}]
+		}]
+	}, {
+		"name": "Home App",
+		"children": [{
+			"platform_name": "google",
+			"subcategory1_name": "Home App",
+			"name": "Home App",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "google",
+			"subcategory1_name": "Home App",
+			"name": "Index",
+			"format_file": "html",
+			"size": "10"
+		}]
+	}, {
+		"name": "Google Play Books",
+		"children": [{
+			"name": "Book title",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "Google Play Books",
+				"subcategory2_name": "Book title",
+				"name": "Book Titles",
+				"format_file": "html",
+				"size": "10"
+			}]
+		}]
+	}, {
+		"name": "Local History",
+		"children": [{
+			"platform_name": "google",
+			"subcategory1_name": "Local History",
+			"name": "Local History",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}, {
+		"name": "Maps",
+		"children": [{
+			"name": "My labeled places",
+			"children": [{
+				"platform_name": "google",
+				"subcategory1_name": "Maps",
+				"subcategory2_name": "My labeled places",
+				"name": "Labeled places",
+				"format_file": "json",
+				"size": "10"
+			}]
+		}]
+	}]
+}

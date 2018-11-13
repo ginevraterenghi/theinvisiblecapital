@@ -1,0 +1,7 @@
+platform_name,subcategory1_name,subcategory2_name,subcategory3_name,subcategory4_name,subcategory5_name,file_name,format_file,size
+spotify,root,,,,,Follow,json,10
+spotify,root,,,,,Payments,json,10
+spotify,root,,,,,Playlist,json,10
+spotify,root,,,,,StreamingHistory,json,10
+spotify,root,,,,,Userdata,json,10
+spotify,root,,,,,YourLibrary,json,10

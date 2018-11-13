@@ -1,0 +1,43 @@
+{
+	"name": "spotify",
+	"children": [{
+		"name": "Root - Personal Informations",
+		"children": [{
+			"platform_name": "spotify",
+			"subcategory1_name": "root",
+			"name": "Follow",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "spotify",
+			"subcategory1_name": "root",
+			"name": "Payments",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "spotify",
+			"subcategory1_name": "root",
+			"name": "Playlist",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "spotify",
+			"subcategory1_name": "root",
+			"name": "Streaming History",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "spotify",
+			"subcategory1_name": "root",
+			"name": "Personal Infos",
+			"format_file": "json",
+			"size": "10"
+		}, {
+			"platform_name": "spotify",
+			"subcategory1_name": "root",
+			"name": "Your Library",
+			"format_file": "json",
+			"size": "10"
+		}]
+	}]
+}

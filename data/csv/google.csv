@@ -1,0 +1,75 @@
+platform_name,subcategory1_name,subcategory2_name,subcategory3_name,subcategory4_name,subcategory5_name,file_name,format_file,size
+google,bookmarks,,,,,Bookmarks,html,10
+google,calendar,,,,,appuntamento,ics,10
+google,chrome,,,,,Autofil,json,10
+google,chrome,,,,,Bookmarks,html,10
+google,chrome,,,,,BrowserHistory,json,10
+google,chrome,,,,,Dictionary,csv,10
+google,chrome,,,,,Extentions,json,10
+google,chrome,,,,,SearchEngines,json,10
+google,chrome,,,,,SyncSettings,json,10
+google,Cloud Print,,,,,Jobs Metadata Takeout,csv,10
+google,Cloud Print,,,,,Printers Metadata Takeout,csv,10
+google,Contacts,All contacts,,,,All contacts,vcf,10
+google,Contacts,Starred in Android,,,,Starred in Android,vcf,10
+google,G Suite Marketplace,,,,,README,,10
+google,Google My Business,account folder,,,,data,json,10
+google,Google Pay,Money sends and requests,,,,transactions,csv,10
+google,Google Pay,Saved items including loyalty _ gift cards,,,,Loyalty Gift Cards and Offers,pdf,10
+google,Google Pay,Transactions made on Google,,,,transactions,csv,10
+google,Google Photos,Instand Upload,,,,metadata,json,10
+google,Google Photos,,,,,shared_album_comments,json,10
+google,Google Photos,Folder by date,,,,,,10
+google,Google Play Books,Book title,,,,Book title,html,10
+google,Google Play Movies _ TV,,,,,Notification Preferences,json,10
+google,Google Play Movies _ TV,,,,,Other Services,json,10
+google,Google Play Movies _ TV,,,,,Ratings,json,10
+google,Google Play Movies _ TV,,,,,Streaming Services,json,10
+google,Google Play Movies _ TV,,,,,Watchlist,json,10
+google,Google+ Circle,,,,,Amici,vcf,10
+google,Google+ Circle,,,,,Conoscenti,vcf,10
+google,Google+ Circle,,,,,Famiglia,vcf,10
+google,Google+ Circle,,,,,Persone che seguo,vcf,10
+google,Google+ Stream,ActivityLog,,,,#ERROR!,html,10
+google,Google+ Stream,ActivityLog,,,,#ERROR!,html,10
+google,Google+ Stream,ActivityLog,,,,Comments,html,10
+google,Google+ Stream,ActivityLog,,,,Poll Votes,html,10
+google,Hangouts,,,,,Hangouts,json,10
+google,Home App,,,,,Home App,json,10
+google,Home App,,,,,index,html,10
+google,Keep,,,,,note,html,10
+google,Local History,,,,,Local History,json,10
+google,Maps,My labeled places,,,,Labeled places,json,10
+google,My Activity,Ads,,,,MyActivity,html,10
+google,My Activity,Android,,,,MyActivity,html,10
+google,My Activity,Books,,,,MyActivity,html,10
+google,My Activity,Chrome,,,,MyActivity,html,10
+google,My Activity,Developers,,,,MyActivity,html,10
+google,My Activity,Google_Play_Store,,,,MyActivity,html,10
+google,My Activity,Help,,,,MyActivity,html,10
+google,My Activity,Image_Search,,,,MyActivity,html,10
+google,My Activity,Maps,,,,MyActivity,html,10
+google,My Activity,News,,,,MyActivity,html,10
+google,My Activity,Search,,,,MyActivity,html,10
+google,My Activity,Shopping,,,,MyActivity,html,10
+google,My Activity,Video_Search,,,,MyActivity,html,10
+google,My Activity,Voice_and_audio,,,,MyActivity,html,10
+google,My Activity,Voice_and_audio,,,,traccia audio,mp3,10
+google,My Activity,YouTube,,,,MyActivity,html,10
+google,News,,,,,articles,txt,10
+google,News,,,,,magazines,txt,10
+google,News,,,,,sources,txt,10
+google,News,,,,,topics,txt,10
+google,Profile,,,,,Profile,json,10
+google,Tasks,,,,,Tasks,json,10
+google,YouTube,history,,,,search-history,htlm,10
+google,YouTube,history,,,,watch-history,html,10
+google,YouTube,watchlist,,,,uploads,json,10
+google,YouTube,watchlist,,,,watch-later,json,10
+google,YouTube,watchlist,,,,likes,json,10
+google,YouTube,playlist,,,,uploads,json,10
+google,YouTube,playlist,,,,watch-later,json,10
+google,YouTube,playlist,,,,likes,json,10
+google,YouTube,,,,,subscriptions,opml,10
+google,Drive,,,,,proj folder,,10
+google,Mail,Mail,,,,All mail Including Spam and Trash,mbox,10
