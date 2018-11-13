@@ -1,0 +1,2 @@
+# theinvisiblecapital
+personal data analysis
